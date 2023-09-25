@@ -3,6 +3,7 @@ import React from "react";
 function NewMovie(){
     return(
         <>
+        <h2>Here You Can Add Your Own Movie</h2>
         <form>
             <label for="name">Title:</label>
             <input type="text" name="title"/>

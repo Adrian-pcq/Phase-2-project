@@ -1,15 +1,14 @@
 import React from "react";
-import Search from "./Search"; 
+import Movie from "./Movie";
 
-function Movies(){
+function Movies({filteredArray}){
+
+    const mappedArray= filteredArray.map(movie=>(<Movie key={""} name={""} year={""} runTime={""} rated={""} released={""}  genre={""} director={""} actors={""} plot={""} awards={""} poster={""} />))
+    
     return(
-        <>
-        <Search/>
-        <h2>Here the Movies:</h2>
         <div className="card-container">
-            {/* mapped movie array */}
-        </div>
-        </>)
+            {mappedArray}
+        </div>)
 }
 
 export default Movies;
