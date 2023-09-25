@@ -4,6 +4,7 @@ import { Route,Switch } from "react-router-dom/cjs/react-router-dom.min";
 import Home from "./Home";
 import Movies from "./Movies";
 import NewMovie from "./NewMovie";
+import MoviesDetails from "./MoviesDetails";
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
           <Home/>
         </Route>
         <Route exact path="/movies">
-          <Movies/>
+          <MoviesDetails />
         </Route>
         <Route exact path="/newMovie">
           <NewMovie/>
