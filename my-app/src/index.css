@@ -1,0 +1,180 @@
+*{
+  margin:5px;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  color:white;
+}
+
+body{
+  background-color: black;
+  flex-direction: column;
+  display:flex;
+
+}
+
+header{
+  font-size: 50px;
+  text-align: center;
+}
+
+.navBar a {
+  float: left;
+  display:block;
+  color :darkgoldenrod;
+  overflow: hidden;
+  text-decoration: none;
+  padding: 20px 24px;
+  font-size:large;
+  border-bottom: 20px;
+}
+
+a:hover{
+  background-color: rgba(128, 128, 128, 0.8);
+  color:rgb(244, 126, 7);
+}
+
+h1 {
+  margin: 50px;
+  color :darkgoldenrod;
+}
+
+.photo-container{
+  width: 80%;
+  height: 400px;
+  overflow-x: scroll;
+  white-space: nowrap;
+  margin-left: 50px;
+}
+
+.photo-container img{
+  width: 300px;
+  height: 400px;
+  margin-left: 10px;
+}
+
+.searcher{
+  align-self: center;
+  width: 50%;
+  height: 50px;
+  font-size: large;
+}
+
+h2{
+  margin: 30px ;
+  align-self: center;
+  color:darkgoldenrod ;
+  font-size: 42px;
+}
+
+.photo-container2{
+  width: 93%;
+  height: fit-content;
+  background-color: bisque;
+  white-space: nowrap;
+  align-self: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.photo-container2 img{
+  width: 260px;
+  height: 300px;
+  margin-left: 10px;
+}
+
+.card-container{
+  display: flex;
+  width:93%;
+  flex-wrap: wrap;
+  margin-left: 30px;
+  
+}
+
+.card{
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  height: fit-content;
+  
+}
+
+.card img{
+  width:90%;
+  height:350px;
+  border-radius: 5px;
+}
+
+.card-info{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+
+.card-info h3{
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.card-info p {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-info button{
+ background-color: rgba(0, 0, 0, 0.8);
+ color:rgb(255, 183, 0);
+ height:40px;
+ font-size: larger;
+ border: 1px solid #ccc;
+ border-radius: 5px;
+}
+.card-info button:hover{
+ background-color: grey;
+ color: rgb(244, 126, 7);
+}
+
+form {
+ width: 500px;
+ margin: 10px auto;
+ border: 1px solid #ccc;
+ border-radius: 5px;
+ padding: 10px;
+ text-align: center;
+}
+
+label {
+ display: block;
+ margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="number"] {
+ width: 450px;;
+ padding: 5px;
+ margin-bottom: 10px;
+}
+
+textarea {
+ height: 100px;
+ width: 450px;
+ padding: 5px;
+ margin-bottom: 10px;
+}
+
+input[type="submit"] {
+ background-color:grey;
+ height:60px;
+ width: 450px;
+ color:rgb(255, 183, 0) ;
+ font-size: 36px;
+ border: none;
+ cursor: pointer;
+}
+
+input[type="submit"]:hover {
+ background-color: #45a049;
+}
