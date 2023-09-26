@@ -24,9 +24,9 @@ function MoviesDetails({moviesArray,setMoviesArray}){
 
     // console.log(filteredArray) 
 
-    function handleDelete(plot){
+    function handleDelete(){
 
-       const deletedMovie = filteredArray.filter(movie=> movie.Plot !== plot)
+       const deletedMovie = filteredArray.filter(movie=> movie.id !== movie.id)
         setMoviesArray(deletedMovie)
     }
 
@@ -34,7 +34,11 @@ function MoviesDetails({moviesArray,setMoviesArray}){
         <>
         <Search setSearchTerm={setSearchTerm}/>
         <h2>Here the Movies:</h2>
-        {moviesArray.length >0 ? <Movies filteredArray={filteredArray} handleDelete={handleDelete} /> : <h1>Loading...</h1>}
+        {moviesArray.length >0 ? 
+            <Movies 
+            filteredArray={filteredArray} 
+            handleDelete={handleDelete} 
+        /> : <h1>Loading...</h1>}
         </>
     )
 }

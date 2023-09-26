@@ -25,10 +25,14 @@ function App() {
           <Home moviesArray={moviesArray}/>
         </Route>
         <Route exact path="/movies">
-          <MoviesDetails moviesArray={moviesArray} setMoviesArray={setMoviesArray}/>
+          <MoviesDetails 
+            moviesArray={moviesArray} 
+            setMoviesArray={setMoviesArray}/>
         </Route>
         <Route exact path="/newMovie">
-          <NewMovie setMoviesArray={setMoviesArray} moviesArray={moviesArray}/>
+          <NewMovie 
+            setMoviesArray={setMoviesArray} 
+            moviesArray={moviesArray}/>
         </Route>
       </Switch>
     </>
