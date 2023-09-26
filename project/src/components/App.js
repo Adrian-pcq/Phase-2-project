@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-      <header>Wellcome to Movie Lovers!!!</header>
+      <header>Welcome to Movie Lovers!!!</header>
       <NavBar/>
       <Switch>
         <Route exact path="/">
