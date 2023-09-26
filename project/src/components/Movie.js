@@ -1,6 +1,9 @@
 import React from "react";
 
 function Movie({ name, year, runTime, rated, released,  genre, director, actors, plot, awards, poster}){
+
+
+  
     return(
         <div className="card">
               <img src={poster} alt={name} /> 
