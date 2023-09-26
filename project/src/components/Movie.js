@@ -1,30 +1,51 @@
-import React from "react";
+import React, { useState } from "react";
 
-function Movie({ name, year, runTime, rated, released,  genre, director, actors, plot, awards, poster}){
+function Movie({ id, name, year, runTime, rated, released,  genre, director, actors, plot, awards, poster,handleDelete}){
 
+  const[isClick,setIsClick]=useState(true)
+  console.log(id)
+    
+  function handleClick(){
+    setIsClick(!isClick)
+  }
 
+  const firstInfo =
+    <div >
+      <h3>Title: </h3>
+      <p>{name}</p>
+      <h3>Year: </h3>
+      <p>{year}</p>
+      <h3>Rated: </h3>
+      <p>{rated}</p>
+      <h3>Runtime: </h3>
+      <p>{runTime}</p>
+      <h3>Genres:</h3>
+      <p>{genre}</p>
+      <h3>Released: </h3>
+      <p>{released}</p>
+    </div>
+
+  const secondInfo = 
+    <div>
+      <h3>Awards: </h3>
+      <p>{awards}</p>
+      <h3>Director: </h3>
+      <p>{director}</p>
+      <h3>Actors: </h3>
+      <p>{actors}</p>
+      <h3>Ratings: </h3>
+      <p>{}</p>
+      <h3>Plot: </h3>
+      <p>{plot}</p>
+    </div>
   
-    return(
-        <div className="card">
-              <img src={poster} alt={name} /> 
+  return(
+        <div className="card" >
+              <img src={poster} alt={name} onClick={handleClick}/> 
               <div className="card-info">
-                <h3>Title: {name}</h3>
-                <h3>Year: {year}</h3>
-                <h3>Rated: {rated}</h3>
-                <h3>Runtime: {runTime}</h3>
-                <h3>Genres:</h3>
-                <p>{genre}</p>
-                <h3>Released: {released}</h3>
-                <h3>Awards: {awards}</h3>
-                <h3>Director: </h3>
-                <p>{director}</p>
-                <h3>Actors: </h3>
-                <p>{actors}</p>
-                <h3>Ratings: </h3>
-                <p>{}</p>
-                <h3>Plot: </h3>
-                <p>{plot}</p>
-              </div>
+                {isClick ? firstInfo : secondInfo}
+                <button onClick={(e)=>handleDelete(id)}>Delete</button>
+                </div>
         </div>
     )
 }
