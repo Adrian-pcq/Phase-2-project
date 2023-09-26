@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 
 function Movie({ 
+  id,
   name, 
   year, 
   runTime, 
@@ -61,7 +62,7 @@ function Movie({
               <img src={poster} alt={name} onClick={handleClick}/> 
               <div className="card-info">
                 {isClick ? firstInfo : secondInfo}
-                <button onClick={(e)=>handleDelete(plot)}>Delete</button>
+                <button onClick={(e)=>handleDelete(id)}>Delete</button>
                 </div>
         </div>
     )

@@ -4,7 +4,8 @@ import Movie from "./Movie";
 function Movies({filteredArray,handleDelete}){
     // console.log(filteredArray)
     const mappedArray= filteredArray.map(movie=>(
-    <Movie key={movie.id} 
+    <Movie key={movie.id}
+    id={movie.id} 
     name={movie.Title} 
     year={movie.Year} 
     runTime={movie.Runtime} 

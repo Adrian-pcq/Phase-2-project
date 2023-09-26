@@ -23,10 +23,12 @@ function MoviesDetails({moviesArray,setMoviesArray}){
         ))
 
     // console.log(filteredArray) 
+    
+    function handleDelete(id){
 
-    function handleDelete(){
-
-       const deletedMovie = filteredArray.filter(movie=> movie.id !== movie.id)
+       const deletedMovie = filteredArray.filter(
+        movie=> movie.id !== id
+        )
         setMoviesArray(deletedMovie)
     }
 
@@ -37,7 +39,8 @@ function MoviesDetails({moviesArray,setMoviesArray}){
         {moviesArray.length >0 ? 
             <Movies 
             filteredArray={filteredArray} 
-            handleDelete={handleDelete} 
+            handleDelete={handleDelete}
+            // deletedMovie={deletedMovie} 
         /> : <h1>Loading...</h1>}
         </>
     )
