@@ -1,12 +1,20 @@
 import React, { useState } from "react";
 
-function Movie({ id, name, year, runTime, rated, released,  genre, director, actors, plot, awards, poster,handleDelete}){
+function Movie({ id, name, year, runTime, rated, released,  genre, director, actors, plot, awards, poster,onhandleDelete}){
 
   const[isClick,setIsClick]=useState(true)
-  console.log(id)
+  
     
   function handleClick(){
     setIsClick(!isClick)
+  }
+
+  function handleDelete(id){
+    fetch(`http://localhost:3000/movies/${id}`,{
+            method:"DELETE"
+        })
+        .then(resp=>resp.json())
+        .then(()=>onhandleDelete(id))
   }
 
   const firstInfo =
@@ -44,7 +52,7 @@ function Movie({ id, name, year, runTime, rated, released,  genre, director, act
               <img src={poster} alt={name} onClick={handleClick}/> 
               <div className="card-info">
                 {isClick ? firstInfo : secondInfo}
-                <button onClick={(e)=>handleDelete(id)}>Delete</button>
+                <button onClick={()=>handleDelete(id)}>Delete</button>
                 </div>
         </div>
     )

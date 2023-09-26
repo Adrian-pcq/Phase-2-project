@@ -8,9 +8,8 @@ function MoviesDetails({moviesArray,setMoviesArray}){
 
     const filteredArray= moviesArray.filter(movie=>(movie.Title.toLowerCase().includes(searchTerm.toLowerCase())))
 
-    function handleDelete(id){
-
-       const deletedMovie = filteredArray.filter(movie=> movie.id !== id)
+    function handleDeleteMovie(id){
+        const deletedMovie = filteredArray.filter(movie=> movie.id !== id)
         setMoviesArray(deletedMovie)
     }
 
@@ -18,7 +17,7 @@ function MoviesDetails({moviesArray,setMoviesArray}){
         <>
         <Search setSearchTerm={setSearchTerm}/>
         <h2>Here the Movies:</h2>
-        {moviesArray.length >0 ? <Movies filteredArray={filteredArray} handleDelete={handleDelete} /> : <h1>Loading...</h1>}
+        {moviesArray.length >0 ? <Movies filteredArray={filteredArray} onhandleDelete={handleDeleteMovie} /> : <h1>Loading...</h1>}
         </>
     )
 }

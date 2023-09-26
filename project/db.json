@@ -799,7 +799,6 @@
       "Rotten Tomatoes": "96%",
       "imdbRating": "8.7"
     },
-       
     {
       "id": 51,
       "Title": "Rocky",
@@ -816,7 +815,6 @@
       "Rotten Tomatoes": "92%",
       "imdbRating": "8.1"
     },
-
     {
       "id": 52,
       "Title": "Rocky III",
@@ -833,6 +831,5 @@
       "Rotten Tomatoes": "65%",
       "imdbRating": "6.8"
     }
-    
   ]
 }
