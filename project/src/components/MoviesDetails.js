@@ -4,17 +4,13 @@ import Search from "./Search";
 
 function MoviesDetails({moviesArray,setMoviesArray}){
 
-    
     const[searchTerm,setSearchTerm]=useState("")
-
-    
-    console.log(moviesArray)
 
     const filteredArray= moviesArray.filter(movie=>(movie.Title.toLowerCase().includes(searchTerm.toLowerCase())))
 
-    function handleDelete(plot){
+    function handleDelete(id){
 
-       const deletedMovie = filteredArray.filter(movie=> movie.Plot !== plot)
+       const deletedMovie = filteredArray.filter(movie=> movie.id !== id)
         setMoviesArray(deletedMovie)
     }
 

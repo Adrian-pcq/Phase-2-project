@@ -1,8 +1,9 @@
 import React, { useState } from "react";
 
-function Movie({ name, year, runTime, rated, released,  genre, director, actors, plot, awards, poster,handleDelete}){
+function Movie({ id, name, year, runTime, rated, released,  genre, director, actors, plot, awards, poster,handleDelete}){
 
   const[isClick,setIsClick]=useState(true)
+  console.log(id)
     
   function handleClick(){
     setIsClick(!isClick)
@@ -43,7 +44,7 @@ function Movie({ name, year, runTime, rated, released,  genre, director, actors,
               <img src={poster} alt={name} onClick={handleClick}/> 
               <div className="card-info">
                 {isClick ? firstInfo : secondInfo}
-                <button onClick={(e)=>handleDelete(plot)}>Delete</button>
+                <button onClick={(e)=>handleDelete(id)}>Delete</button>
                 </div>
         </div>
     )

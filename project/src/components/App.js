@@ -25,7 +25,7 @@ function App() {
           <Home/>
         </Route>
         <Route exact path="/movies">
-          <MoviesDetails moviesArray={moviesArray}/>
+          <MoviesDetails moviesArray={moviesArray} setMoviesArray={setMoviesArray}/>
         </Route>
         <Route exact path="/newMovie">
           <NewMovie setMoviesArray={setMoviesArray} moviesArray={moviesArray}/>

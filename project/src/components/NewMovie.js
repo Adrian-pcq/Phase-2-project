@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function NewMovie({setMoviesArray}){
+function NewMovie({setMoviesArray,moviesArray}){
 
     const [formData,setFormData]=useState({Title:"",Year:"",Runtime:"",Poster:"",Rated:"",Released:"",Genre:"",Actors:"",Director:"",Awards:"",Plot:""})
 
@@ -11,8 +11,6 @@ function NewMovie({setMoviesArray}){
 
     function handleSubmit(e){
         e.preventDefault()
-
-        console.log(e)
 
         const newMovie={
             Title: formData.Title,
@@ -34,7 +32,7 @@ function NewMovie({setMoviesArray}){
                 body: JSON.stringify(newMovie)
             })
         .then(resp=>resp.json())
-        .then(newMovieFromDB => {setMoviesArray(movie => [...movie,newMovieFromDB])})
+        .then(newMovieFromDB => {setMoviesArray([...moviesArray,newMovieFromDB])})
     
     }
 
@@ -43,25 +41,25 @@ function NewMovie({setMoviesArray}){
         <h2>Here You Can Add Your Own Movie</h2>
         <form  onSubmit={handleSubmit}>
             <label for="name">Title:</label>
-            <input type="text" name="Title" onChange={handleChange}/>
+            <input type="text" name="Title" onChange={handleChange} value={formData.Title}/>
 
             <label for="year">Year:</label>
-            <input type="number" name="Year" onChange={handleChange}/>
+            <input type="number" name="Year" onChange={handleChange} value={formData.Year}/>
 
             <label for="rated">Rated:</label>
-            <input type="text" name="Rated" onChange={handleChange}/>
+            <input type="text" name="Rated" onChange={handleChange} value={formData.Rated}/>
 
             <label for="runtime">Runtime:</label>
-            <input type="text" name="Runtime"onChange={handleChange}/>
+            <input type="text" name="Runtime"onChange={handleChange} value={formData.Runtime}/>
 
             <label for="director">Director:</label>
-            <input type="text" name="Director"onChange={handleChange}/>
+            <input type="text" name="Director"onChange={handleChange} value={formData.Director}/>
 
             <label for="actors">Actors:</label>
-            <input type="text" name="Actors"onChange={handleChange}/>
+            <input type="text" name="Actors"onChange={handleChange} value={formData.Actors}/>
 
             <label for="plot">Plot:</label>
-            <textarea name="Plot"onChange={handleChange} ></textarea>
+            <textarea name="Plot"onChange={handleChange} value={formData.Plot}></textarea>
 
             <input type="submit" value="Add movie"/>
         </form>
