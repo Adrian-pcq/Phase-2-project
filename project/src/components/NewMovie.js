@@ -40,25 +40,25 @@ function NewMovie({setMoviesArray,moviesArray}){
         <>
         <h2>Here You Can Add Your Own Movie</h2>
         <form  onSubmit={handleSubmit}>
-            <label for="name">Title:</label>
+            <label htmlFor="name">Title:</label>
             <input type="text" name="Title" onChange={handleChange} value={formData.Title}/>
 
-            <label for="year">Year:</label>
+            <label htmlFor="year">Year:</label>
             <input type="number" name="Year" onChange={handleChange} value={formData.Year}/>
 
-            <label for="rated">Rated:</label>
+            <label htmlFor="rated">Rated:</label>
             <input type="text" name="Rated" onChange={handleChange} value={formData.Rated}/>
 
-            <label for="runtime">Runtime:</label>
+            <label htmlFor="runtime">Runtime:</label>
             <input type="text" name="Runtime"onChange={handleChange} value={formData.Runtime}/>
 
-            <label for="director">Director:</label>
+            <label htmlFor="director">Director:</label>
             <input type="text" name="Director"onChange={handleChange} value={formData.Director}/>
 
-            <label for="actors">Actors:</label>
+            <label htmlFor="actors">Actors:</label>
             <input type="text" name="Actors"onChange={handleChange} value={formData.Actors}/>
 
-            <label for="plot">Plot:</label>
+            <label htmlFor="plot">Plot:</label>
             <textarea name="Plot"onChange={handleChange} value={formData.Plot}></textarea>
 
             <input type="submit" value="Add movie"/>
