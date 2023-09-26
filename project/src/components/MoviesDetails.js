@@ -1,25 +1,24 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import Movies from "./Movies";
 import Search from "./Search";
 
-function MoviesDetails(){
+function MoviesDetails({moviesArray,setMoviesArray}){
 
-    const[moviesArray,setMoviesArray]=useState([])
     const[searchTerm,setSearchTerm]=useState("")
 
-    useEffect(()=>{
-        fetch("")
-        .then(resp=>resp.json())
-        .then(data=>setMoviesArray(data))
-    },[])
+    const filteredArray= moviesArray.filter(movie=>(movie.Title.toLowerCase().includes(searchTerm.toLowerCase())))
 
-    const filteredArray= moviesArray.filter(movie=>(movie.name.toLowerCase().includes(searchTerm.toLowerCase())))
+    function handleDelete(id){
+
+       const deletedMovie = filteredArray.filter(movie=> movie.id !== id)
+        setMoviesArray(deletedMovie)
+    }
 
     return(
         <>
         <Search setSearchTerm={setSearchTerm}/>
         <h2>Here the Movies:</h2>
-        {moviesArray.length >0 ? <Movies filteredArray={filteredArray}/> : <h1>Loading...</h1>}
+        {moviesArray.length >0 ? <Movies filteredArray={filteredArray} handleDelete={handleDelete} /> : <h1>Loading...</h1>}
         </>
     )
 }
