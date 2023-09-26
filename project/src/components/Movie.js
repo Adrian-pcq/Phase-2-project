@@ -1,6 +1,21 @@
 import React, { useState } from "react";
 
-function Movie({ name, year, runTime, rated, released,  genre, director, actors, plot, awards, poster,handleDelete}){
+function Movie({ 
+  name, 
+  year, 
+  runTime, 
+  rated, 
+  released,  
+  genre, 
+  director, 
+  actors, 
+  plot, 
+  awards, 
+  poster,
+  handleDelete, 
+  imdbRating,
+  rottenTomatoes
+}){
 
   const[isClick,setIsClick]=useState(true)
     
@@ -33,7 +48,10 @@ function Movie({ name, year, runTime, rated, released,  genre, director, actors,
       <h3>Actors: </h3>
       <p>{actors}</p>
       <h3>Ratings: </h3>
-      <p>{}</p>
+      <h3>Rotten Tomatoes</h3>
+      <p>{rottenTomatoes}</p>
+      <h3>imdbRating</h3>
+      <p>{imdbRating}</p>
       <h3>Plot: </h3>
       <p>{plot}</p>
     </div>

@@ -28,7 +28,7 @@ function NewMovie({setMoviesArray}){
             Plot: formData.Plot
         }
 
-        fetch("http://localhost:3000/movies",{
+        fetch("http://localhost:3001/movies",{
                 method: "POST",
                 headers: {"Content-Type": "application/json"},
                 body: JSON.stringify(newMovie)
