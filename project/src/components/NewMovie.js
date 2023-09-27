@@ -1,6 +1,10 @@
 import React, { useState } from "react";
+import { useHistory } from "react-router-dom";
+
 
 function NewMovie({setMoviesArray}){
+
+    const history = useHistory();
 
     const [formData,setFormData]=useState({
         Title:"",
@@ -26,9 +30,9 @@ function NewMovie({setMoviesArray}){
 
     function handleSubmit(e){
         e.preventDefault()
-
-        // console.log(e)
-
+        
+        
+        
         const newMovie={
             Title: formData.Title,
             Year: formData.Year,
@@ -43,60 +47,60 @@ function NewMovie({setMoviesArray}){
             Poster: formData.Poster,
             ["Rotten Tomatoes"]: formData["Rotten Tomatoes"],
             imdbRating: formData.imdbRating
-
+            
         }
-
+        
         fetch("http://localhost:3001/movies",{
-                method: "POST",
-                headers: {"Content-Type": "application/json"},
-                body: JSON.stringify(newMovie)
-            })
+            method: "POST",
+            headers: {"Content-Type": "application/json"},
+            body: JSON.stringify(newMovie)
+        })
         .then(resp=>resp.json())
         .then(newMovieFromDB => {setMoviesArray(movie => [...movie,newMovieFromDB])})
-    
+        // e.target.reset()
+        history.push('/movies')
     }
-
     return(
         <>
         <h2>Add Movie Here</h2>
-        <form  onSubmit={handleSubmit}>
-            <label for="name">Title:</label>
+        <form className="form"  onSubmit={handleSubmit}>
+            <label htmlFor="name">Title:</label>
             <input type="text" name="Title" onChange={handleChange}/>
 
-            <label for="year">Year:</label>
+            <label htmlFor="year">Year:</label>
             <input type="text" name="Year" onChange={handleChange}/>
 
-            <label for="rated">Rated:</label>
+            <label htmlFor="rated">Rated:</label>
             <input type="text" name="Rated" onChange={handleChange}/>
 
-            <label for="released">Released:</label>
+            <label htmlFor="released">Released:</label>
             <input type="text" name="Released"onChange={handleChange}/>
 
-            <label for="runtime">Runtime:</label>
+            <label htmlFor="runtime">Runtime:</label>
             <input type="text" name="Runtime"onChange={handleChange}/>
         
-            <label for="genre">Genre:</label>
+            <label htmlFor="genre">Genre:</label>
             <input type="text" name="Genre"onChange={handleChange}/>
 
-            <label for="director">Director:</label>
+            <label htmlFor="director">Director:</label>
             <input type="text" name="Director"onChange={handleChange}/>
 
-            <label for="actors">Actors:</label>
+            <label htmlFor="actors">Actors:</label>
             <input type="text" name="Actors"onChange={handleChange}/>
 
-            <label for="plot">Plot:</label>
+            <label htmlFor="plot">Plot:</label>
             <textarea name="Plot"onChange={handleChange} ></textarea>
 
-            <label for="awards">Awards:</label>
+            <label htmlFor="awards">Awards:</label>
             <input type="text" name="Awards"onChange={handleChange}/>
 
-            <label for="poster">Poster:</label>
+            <label htmlFor="poster">Poster:</label>
             <input type="text" name="Poster"onChange={handleChange}/>
             
-            <label for="rottenTomatoes">Rotten Tomatoes:</label>
+            <label htmlFor="rottenTomatoes">Rotten Tomatoes:</label>
             <input type="text" name="Rotten Tomatoes"onChange={handleChange}/>
 
-            <label for="imdb">Imdb Rating:</label>
+            <label htmlFor="imdb">Imdb Rating:</label>
             <input type="text" name="imdbRating"onChange={handleChange}/>
 
             <input type="submit" value="Add movie"/>

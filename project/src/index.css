@@ -41,14 +41,15 @@ a:hover{
 
 h1 {
   margin: 50px;
+  text-align: center;
   color :darkgoldenrod;
 }
 
 .photo-container{
   width: 80%;
-  height: 400px;
-  overflow-x: scroll;
+  display:flex;
   white-space: nowrap;
+  flex-wrap: wrap;
   margin-left: 50px;
 }
 
@@ -93,6 +94,7 @@ h2{
   width:93%;
   flex-wrap: wrap;
   margin-left: 30px;
+  align-self: center;
   
 }
 
@@ -144,7 +146,7 @@ h2{
  background-color: grey;
  color: rgb(244, 126, 7);
 }
-
+ 
 form {
  width: 500px;
  margin: 10px auto;
@@ -153,6 +155,16 @@ form {
  padding: 10px;
  text-align: center;
 }
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
 
 label {
  display: block;

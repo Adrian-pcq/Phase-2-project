@@ -64,7 +64,9 @@ function Movie({
       <h3>Plot: </h3>
       <p>{plot}</p>
       <button onClick={()=>handleDelete(id)}>delete</button>
+        
     </div>
+    
   
   return(
         <div className="card" >
