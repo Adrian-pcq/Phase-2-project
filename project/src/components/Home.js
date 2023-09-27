@@ -11,7 +11,7 @@ function Home({moviesArray}){
         <div className="photo-container">
             { display5.map(movie=>(<img key={movie.id} src={movie.Poster} alt={movie.Title}/>) ) }
            </div>
-        <h1>Many Movies of all Kind of Genres</h1>
+        <h1>Click movies tab to view more!</h1>
         </>
     )
 }

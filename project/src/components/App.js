@@ -1,6 +1,6 @@
 import React,{useEffect,useState} from "react";
 import NavBar from "./NavBar";
-import { Route,Switch } from "react-router-dom/cjs/react-router-dom.min";
+import { Route,Switch } from "react-router-dom";
 import Home from "./Home";
 import NewMovie from "./NewMovie";
 import MoviesDetails from "./MoviesDetails";

@@ -1,6 +1,9 @@
 import React, { useState } from "react";
+import { useHistory } from "react-router-dom";
 
 function NewMovie({setMoviesArray,moviesArray}){
+
+    const history = useHistory()
 
     const [formData,setFormData]=useState({Title:"",Year:"",Runtime:"",Poster:"",Rated:"",Released:"",Genre:"",Actors:"",Director:"",Awards:"",Plot:""})
 
@@ -33,6 +36,8 @@ function NewMovie({setMoviesArray,moviesArray}){
             })
         .then(resp=>resp.json())
         .then(newMovieFromDB => {setMoviesArray([...moviesArray,newMovieFromDB])})
+
+        history.push("/movies")
     
     }
 
@@ -61,7 +66,7 @@ function NewMovie({setMoviesArray,moviesArray}){
             <label htmlFor="plot">Plot:</label>
             <textarea name="Plot"onChange={handleChange} value={formData.Plot}></textarea>
 
-            <input type="submit" value="Add movie"/>
+            <input type="submit" value="Add movie" />
         </form>
         </>
     )

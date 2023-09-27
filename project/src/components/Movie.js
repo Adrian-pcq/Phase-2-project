@@ -18,7 +18,10 @@ function Movie({ id, name, year, runTime, rated, released,  genre, director, act
   }
 
   const firstInfo =
-    <div >
+    <div > </div>
+
+  const secondInfo = 
+    <div>
       <h3>Title: </h3>
       <p>{name}</p>
       <h3>Year: </h3>
@@ -31,10 +34,6 @@ function Movie({ id, name, year, runTime, rated, released,  genre, director, act
       <p>{genre}</p>
       <h3>Released: </h3>
       <p>{released}</p>
-    </div>
-
-  const secondInfo = 
-    <div>
       <h3>Awards: </h3>
       <p>{awards}</p>
       <h3>Director: </h3>
