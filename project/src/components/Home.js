@@ -6,7 +6,7 @@ function Home({moviesArray}){
     const display5 = shuffled.slice(0,5)
     return(
         <>
-        <h1>What Can You Find Here? </h1>
+        <h1>Random Order</h1>
         <div className="photo-container">
             {display5.map((movie)=>{
                 return(
@@ -16,7 +16,7 @@ function Home({moviesArray}){
             })}
             
         </div>
-        <h1>Many Movies of all Kind of Genres</h1>
+        <h1>Click movies tab to view more!</h1>
         </>
     )
 }

@@ -13,7 +13,7 @@ function Movie({
   plot, 
   awards, 
   poster,
-  handleDelete, 
+  onhandleDelete, 
   imdbRating,
   rottenTomatoes
 }){
@@ -23,9 +23,21 @@ function Movie({
   function handleClick(){
     setIsClick(!isClick)
   }
-
+  
+  function handleDelete(id){
+    fetch(`http://localhost:3001/movies/${id}`,{
+            method:"DELETE"
+        })
+        .then(resp=>resp.json())
+        .then(onhandleDelete(id))
+  }
   const firstInfo =
     <div >
+      
+    </div>
+
+  const secondInfo = 
+    <div>
       <h3>Title: </h3>
       <p>{name}</p>
       <h3>Year: </h3>
@@ -38,10 +50,6 @@ function Movie({
       <p>{genre}</p>
       <h3>Released: </h3>
       <p>{released}</p>
-    </div>
-
-  const secondInfo = 
-    <div>
       <h3>Awards: </h3>
       <p>{awards}</p>
       <h3>Director: </h3>
@@ -55,6 +63,7 @@ function Movie({
       <p>{imdbRating}</p>
       <h3>Plot: </h3>
       <p>{plot}</p>
+      <button onClick={()=>handleDelete(id)}>delete</button>
     </div>
   
   return(
@@ -62,7 +71,7 @@ function Movie({
               <img src={poster} alt={name} onClick={handleClick}/> 
               <div className="card-info">
                 {isClick ? firstInfo : secondInfo}
-                <button onClick={(e)=>handleDelete(id)}>Delete</button>
+                
                 </div>
         </div>
     )

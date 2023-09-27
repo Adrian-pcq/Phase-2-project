@@ -1,7 +1,7 @@
 import React from "react";
 import Movie from "./Movie";
 
-function Movies({filteredArray,handleDelete}){
+function Movies({filteredArray,onhandleDelete}){
     // console.log(filteredArray)
     const mappedArray= filteredArray.map(movie=>(
     <Movie key={movie.id}
@@ -19,8 +19,8 @@ function Movies({filteredArray,handleDelete}){
     poster={movie.Poster} 
     rottenTomatoes={movie["Rotten Tomatoes"]}
     imdbRating={movie.imdbRating}
-    handleDelete={handleDelete}/>))
-    // console.log(mappedArray)
+    onhandleDelete={onhandleDelete}/>))
+
     return(
         <div className="card-container">
             {mappedArray}

@@ -19,27 +19,25 @@ function MoviesDetails({moviesArray,setMoviesArray}){
         movie.Plot.toLowerCase().includes(searchTerm.toLowerCase()) ||
         movie["Rotten Tomatoes"].includes(searchTerm) ||
         movie.imdbRating.includes(searchTerm)
-        
         ))
 
     // console.log(filteredArray) 
     
-    function handleDelete(id){
+    function handleDeleteMovie(id){
 
        const deletedMovie = filteredArray.filter(
-        movie=> movie.id !== id
-        )
+        movie=> movie.id !== id)
         setMoviesArray(deletedMovie)
     }
 
     return(
         <>
         <Search setSearchTerm={setSearchTerm}/>
-        <h2>Here the Movies:</h2>
+        <h2>Search by any value!</h2>
         {moviesArray.length >0 ? 
             <Movies 
             filteredArray={filteredArray} 
-            handleDelete={handleDelete}
+            onhandleDelete={handleDeleteMovie}
             // deletedMovie={deletedMovie} 
         /> : <h1>Loading...</h1>}
         </>
