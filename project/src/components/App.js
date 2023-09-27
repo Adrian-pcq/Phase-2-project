@@ -22,7 +22,7 @@ function App() {
       <NavBar/>
       <Switch>
         <Route exact path="/">
-          <Home/>
+          <Home moviesArray={moviesArray}/>
         </Route>
         <Route exact path="/movies">
           <MoviesDetails moviesArray={moviesArray} setMoviesArray={setMoviesArray}/>

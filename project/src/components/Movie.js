@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function Movie({ id, name, year, runTime, rated, released,  genre, director, actors, plot, awards, poster,onhandleDelete}){
+function Movie({ id, name, year, runTime, rated, released,  genre, director, actors, plot, awards, poster, imdbRating, rottenTomatoes, onhandleDelete}){
 
   const[isClick,setIsClick]=useState(true)
   
@@ -42,7 +42,10 @@ function Movie({ id, name, year, runTime, rated, released,  genre, director, act
       <h3>Actors: </h3>
       <p>{actors}</p>
       <h3>Ratings: </h3>
-      <p>{}</p>
+      <h3>Rotten Tomatoes</h3>
+      <p>{rottenTomatoes}</p>
+      <h3>imdbRating</h3>
+      <p>{imdbRating}</p>
       <h3>Plot: </h3>
       <p>{plot}</p>
     </div>
