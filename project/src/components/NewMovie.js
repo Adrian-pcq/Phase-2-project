@@ -1,72 +1,109 @@
 import React, { useState } from "react";
 import { useHistory } from "react-router-dom";
 
-function NewMovie({setMoviesArray,moviesArray}){
 
-    const history = useHistory()
+function NewMovie({setMoviesArray}){
 
-    const [formData,setFormData]=useState({Title:"",Year:"",Runtime:"",Poster:"",Rated:"",Released:"",Genre:"",Actors:"",Director:"",Awards:"",Plot:""})
+    const history = useHistory();
+
+    const [formData,setFormData]=useState({
+        Title:"",
+        Year:"",
+        Rated:"",
+        Released:"",
+        Runtime:"",
+        Genre:"",
+        Director:"",
+        Actors:"",
+        Plot:"",
+        Awards:"",
+        Poster:"",
+        ["Rotten Tomatoes"]:"",
+        imdbRating:""
+ 
+    })
 
     function handleChange(e){
-        console.log(e.target.name)
+        // console.log(e.target.name)
         setFormData({...formData,[e.target.name]:e.target.value})
     }
 
     function handleSubmit(e){
         e.preventDefault()
-
+        
+        
+        
         const newMovie={
             Title: formData.Title,
-            Year: parseInt(formData.Year),
-            Runtime:formData.Runtime,
-            Poster: formData.Poster,
+            Year: formData.Year,
             Rated: formData.Rated,
             Released: formData.Released,
+            Runtime:formData.Runtime,
             Genre: formData.Genre,
-            Actors: formData.Actors,
             Director: formData.Director,
+            Actors: formData.Actors,
+            Plot: formData.Plot,
             Awards: formData.Awards,
-            Plot: formData.Plot
+            Poster: formData.Poster,
+            ["Rotten Tomatoes"]: formData["Rotten Tomatoes"],
+            imdbRating: formData.imdbRating
+            
         }
-
-        fetch("http://localhost:3000/movies",{
-                method: "POST",
-                headers: {"Content-Type": "application/json"},
-                body: JSON.stringify(newMovie)
-            })
+        
+        fetch("http://localhost:3001/movies",{
+            method: "POST",
+            headers: {"Content-Type": "application/json"},
+            body: JSON.stringify(newMovie)
+        })
         .then(resp=>resp.json())
-        .then(newMovieFromDB => {setMoviesArray([...moviesArray,newMovieFromDB])})
-
-        history.push("/movies")
-    
+        .then(newMovieFromDB => {setMoviesArray(movie => [...movie,newMovieFromDB])})
+        // e.target.reset()
+        history.push('/movies')
     }
-
     return(
         <>
-        <h2>Here You Can Add Your Own Movie</h2>
-        <form  onSubmit={handleSubmit}>
+        <h2>Add Movie Here</h2>
+        <form className="form"  onSubmit={handleSubmit}>
             <label htmlFor="name">Title:</label>
-            <input type="text" name="Title" onChange={handleChange} value={formData.Title}/>
+            <input type="text" name="Title" onChange={handleChange}/>
 
             <label htmlFor="year">Year:</label>
-            <input type="number" name="Year" onChange={handleChange} value={formData.Year}/>
+            <input type="text" name="Year" onChange={handleChange}/>
 
             <label htmlFor="rated">Rated:</label>
-            <input type="text" name="Rated" onChange={handleChange} value={formData.Rated}/>
+            <input type="text" name="Rated" onChange={handleChange}/>
+
+            <label htmlFor="released">Released:</label>
+            <input type="text" name="Released"onChange={handleChange}/>
 
             <label htmlFor="runtime">Runtime:</label>
-            <input type="text" name="Runtime"onChange={handleChange} value={formData.Runtime}/>
+            <input type="text" name="Runtime"onChange={handleChange}/>
+        
+            <label htmlFor="genre">Genre:</label>
+            <input type="text" name="Genre"onChange={handleChange}/>
 
             <label htmlFor="director">Director:</label>
-            <input type="text" name="Director"onChange={handleChange} value={formData.Director}/>
+            <input type="text" name="Director"onChange={handleChange}/>
 
             <label htmlFor="actors">Actors:</label>
-            <input type="text" name="Actors"onChange={handleChange} value={formData.Actors}/>
+            <input type="text" name="Actors"onChange={handleChange}/>
 
             <label htmlFor="plot">Plot:</label>
-            <textarea name="Plot"onChange={handleChange} value={formData.Plot}></textarea>
+            <textarea name="Plot"onChange={handleChange} ></textarea>
 
-            <input type="submit" value="Add movie" />
+            <label htmlFor="awards">Awards:</label>
+            <input type="text" name="Awards"onChange={handleChange}/>
+
+            <label htmlFor="poster">Poster:</label>
+            <input type="text" name="Poster"onChange={handleChange}/>
+            
+            <label htmlFor="rottenTomatoes">Rotten Tomatoes:</label>
+            <input type="text" name="Rotten Tomatoes"onChange={handleChange}/>
+
+            <label htmlFor="imdb">Imdb Rating:</label>
+            <input type="text" name="imdbRating"onChange={handleChange}/>
+
+            <input type="submit" value="Add movie"/>
         </form>
         </>
     )
