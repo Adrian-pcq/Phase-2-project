@@ -18,11 +18,17 @@ function Movie({
   rottenTomatoes
 }){
 
-  const[isClick,setIsClick]=useState(true)
+  const[isHovered,setIsHovered]=useState(false)
     
-  function handleClick(){
-    setIsClick(!isClick)
+  function handleMouseEnter(){
+    setIsHovered(true);
   }
+
+  function handleMouseLeave(){
+    setIsHovered(false);
+  }
+
+  
   
   function handleDelete(id){
     fetch(`http://localhost:3001/movies/${id}`,{
@@ -31,8 +37,11 @@ function Movie({
         .then(resp=>resp.json())
         .then(onhandleDelete(id))
   }
+
+  // const cardClass = `card${isHovered ? '' : 'hover' }`;
+
   const firstInfo =
-    <div >
+    <div>
       
     </div>
 
@@ -64,19 +73,20 @@ function Movie({
       <h3>Plot: </h3>
       <p>{plot}</p>
       <button onClick={()=>handleDelete(id)}>DELETE</button>
+      {/* <button>WATCH HERE</button> */}
         
     </div>
     
   
   return(
-        <div className="card" >
-              <img src={poster} alt={name} onClick={handleClick}/> 
+        <div className={'card'} onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>
+              <img src={poster} alt={name} /> 
               <div className="card-info">
-                {isClick ? firstInfo : secondInfo}
-                
-                </div>
+                {isHovered ? secondInfo : firstInfo}               
+              </div>
         </div>
-    )
+    );
 }
+  
 
 export default Movie;
