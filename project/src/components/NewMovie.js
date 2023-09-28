@@ -62,7 +62,8 @@ function NewMovie({setMoviesArray}){
     }
     return(
         <>
-        <h2>Add Movie Here</h2>
+        <h2><img src="./images/movieHereYellow.png"/></h2>
+        
         <form className="form"  onSubmit={handleSubmit}>
             <label htmlFor="name">Title:</label>
             <input type="text" name="Title" onChange={handleChange}/>
