@@ -18,7 +18,9 @@ function App() {
 
   return (
     <>
-      <header>Welcome to Movie Lovers!!!</header>
+      <header>
+        <img src="./images/title.png"/>
+      </header>
       <NavBar/>
       <Switch>
         <Route exact path="/">

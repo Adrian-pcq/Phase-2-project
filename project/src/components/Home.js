@@ -7,17 +7,21 @@ function Home({moviesArray}){
     
     return(
         <>
-        <h1>Random Order</h1>
-        <div className="photo-container">
+
+        <h1><img src="./images/randomOrderRed.png"/></h1>
+        <div className="card-container">
+            
             {display5.map((movie)=>{
                 return(
+                    <div className="card">
                     <img key={movie.id}
                      src={movie.Poster}/>
+                     </div>
                 )
             })}
             
         </div>
-        <h1>Click movies tab to view more!</h1>
+        <h1><img src="./images/clickAll.png"/></h1>
         </>
     )
 }

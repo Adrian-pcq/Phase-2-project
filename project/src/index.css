@@ -1,9 +1,13 @@
 *{
+  background-image: url("https://i.pinimg.com/564x/43/85/c3/4385c3e15229f96323916139cf5bf23e.jpg");
   margin:0;
   font-family: Arial, Helvetica, sans-serif;
   box-sizing: border-box;
   color:white;
   background-color: black;
+  background-size: 2000px;
+  background-attachment: fixed;
+  
 }
 
 #root{

@@ -63,7 +63,7 @@ function Movie({
       <p>{imdbRating}</p>
       <h3>Plot: </h3>
       <p>{plot}</p>
-      <button onClick={()=>handleDelete(id)}>delete</button>
+      <button onClick={()=>handleDelete(id)}>DELETE</button>
         
     </div>
     
