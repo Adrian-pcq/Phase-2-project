@@ -15,7 +15,8 @@ function Movie({
   poster,
   onhandleDelete, 
   imdbRating,
-  rottenTomatoes
+  rottenTomatoes,
+  movieLink
 }){
 
   const[isHovered,setIsHovered]=useState(false)
@@ -73,7 +74,9 @@ function Movie({
       <h3>Plot: </h3>
       <p>{plot}</p>
       <button onClick={()=>handleDelete(id)}>DELETE</button>
-      {/* <button>WATCH HERE</button> */}
+      <button>
+        <a href={movieLink} target="_blank">WATCH NOW</a>
+      </button>
         
     </div>
     

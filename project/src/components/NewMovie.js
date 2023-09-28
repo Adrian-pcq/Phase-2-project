@@ -19,7 +19,8 @@ function NewMovie({setMoviesArray}){
         Awards:"",
         Poster:"",
         ["Rotten Tomatoes"]:"",
-        imdbRating:""
+        imdbRating:"",
+        movieLink:""
  
     })
 
@@ -46,7 +47,8 @@ function NewMovie({setMoviesArray}){
             Awards: formData.Awards,
             Poster: formData.Poster,
             ["Rotten Tomatoes"]: formData["Rotten Tomatoes"],
-            imdbRating: formData.imdbRating
+            imdbRating: formData.imdbRating,
+            movieLink: formData.movieLink
             
         }
         
@@ -103,6 +105,9 @@ function NewMovie({setMoviesArray}){
 
             <label htmlFor="imdb">Imdb Rating:</label>
             <input type="text" name="imdbRating"onChange={handleChange}/>
+
+            <label htmlFor="movieLink">Movie Link:</label>
+            <input type="text" name="movieLink"onChange={handleChange}/>
 
             <input type="submit" value="Add movie"/>
         </form>

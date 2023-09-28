@@ -19,6 +19,7 @@ function Movies({filteredArray,onhandleDelete}){
     poster={movie.Poster} 
     rottenTomatoes={movie["Rotten Tomatoes"]}
     imdbRating={movie.imdbRating}
+    movieLink={movie.movieLink}
     onhandleDelete={onhandleDelete}/>))
 
     return(

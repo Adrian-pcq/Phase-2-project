@@ -13,7 +13,8 @@
       "Plot": "An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers.",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNWVjZWFmYjItZGJlOC00YTllLWE4YjctMWY2ZTg5ZjE0MDIyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
       "Rotten Tomatoes": "70%",
-      "imdbRating": "7.2"
+      "imdbRating": "7.2",
+      "movieLink": "https://www.justwatch.com/us/movie/point-break-1991"
     },
     {
       "id": 2,
@@ -29,7 +30,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
       "Awards": "Won 5 Oscars. 79 wins & 75 nominations total",
       "imdbRating": "8.6/10",
-      "Rotten Tomatoes": "94%"
+      "Rotten Tomatoes": "94%",
+      "movieLink": "https://www.justwatch.com/us/movie/saving-private-ryan"
     },
     {
       "id": 3,
@@ -46,7 +48,8 @@
       "Awards": "4 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDE5NTU0OV5BMl5BanBnXkFtZTcwMzI1OTMzOQ@@._V1_SX300.jpg",
       "Rotten Tomatoes": "50%",
-      "imdbRating": "6.4"
+      "imdbRating": "6.4",
+      "movieLink": "https://www.justwatch.com/us/movie/pain-and-gain"
     },
     {
       "id": 4,
@@ -62,7 +65,8 @@
       "Awards": "3 wins & 19 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNThlMjBmOWItNjljZi00ZGU4LWJkZjgtNWU1ZjI1MTg4MzczXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
       "Rotten Tomatoes": "56%",
-      "imdbRating": "6.4"
+      "imdbRating": "6.4",
+      "movieLink": "https://www.justwatch.com/us/movie/mars-attacks"
     },
     {
       "id": 5,
@@ -78,7 +82,8 @@
       "Awards": "Nominated for 2 Oscars. 17 wins & 63 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg",
       "Rotten Tomatoes": "90%",
-      "imdbRating": "7.4"
+      "imdbRating": "7.4",
+      "movieLink": "https://www.justwatch.com/us/movie/spiderman"
     },
     {
       "id": 6,
@@ -94,7 +99,8 @@
       "Awards": "Won 1 Oscar. 25 wins & 60 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "93%",
-      "imdbRating": "7.4"
+      "imdbRating": "7.4",
+      "movieLink": "https://www.justwatch.com/us/movie/spiderman-2"
     },
     {
       "id": 7,
@@ -110,7 +116,8 @@
       "Awards": "Nominated for 1 BAFTA Award4 wins & 44 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
       "Rotten Tomatoes": "63%",
-      "imdbRating": "6.3"
+      "imdbRating": "6.3",
+      "movieLink": "https://www.justwatch.com/us/movie/spider-man-3"
     },
     {
       "id": 8,
@@ -127,7 +134,8 @@
       "Awards": "Nominated for 1 Oscar. 8 wins & 46 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1_SX300.jpg",
       "Rotten Tomatoes": "90%",
-      "imdbRating": "7.7"
+      "imdbRating": "7.7",
+      "movieLink": "https://www.justwatch.com/us/movie/coraline"
     },
     {
       "id": 9,
@@ -143,7 +151,8 @@
       "Awards": "Nominated for 3 Oscars. 16 wins & 12 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
       "Rotten Tomatoes": "100%",
-      "imdbRating": "9.0"
+      "imdbRating": "9.0",
+      "movieLink": "https://www.justwatch.com/us/movie/12-angry-men"
     },
     {
       "id": 10,
@@ -159,7 +168,8 @@
       "Awards": "Nominated for 1 BAFTA Award3 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjcyZjA1NzktYmNmYy00M2UwLWFmNTktNzRmNjNiZWUyZGI1XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
       "Rotten Tomatoes": "93%",
-      "imdbRating": "8.0"
+      "imdbRating": "8.0",
+      "movieLink": "https://www.justwatch.com/us/movie/fail-safe"
     },
     {
       "id": 11,
@@ -175,7 +185,8 @@
       "Awards": "3 wins & 5 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTk3NTc4MTktNjFmZC00ZjdjLWE0ZjgtNTM4NzdmMDBjOTcxXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX300.jpg",
       "Rotten Tomatoes": "64%",
-      "imdbRating": "7.1"
+      "imdbRating": "7.1",
+      "movieLink": "https://www.justwatch.com/us/movie/we-were-soldiers"
     },
     {
       "id": 12,
@@ -191,7 +202,8 @@
       "Awards": "Won 1 Oscar. 58 wins & 31 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "Rotten Tomatoes": "96%",
-      "imdbRating": "8.6"
+      "imdbRating": "8.6",
+      "movieLink": "https://www.justwatch.com/us/movie/spirited-away"
     },
     {
       "id": 13,
@@ -207,7 +219,8 @@
       "Awards": "Won 4 Oscars. 42 wins & 52 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "Rotten Tomatoes": "83%",
-      "imdbRating": "8.7"
+      "imdbRating": "8.7",
+      "movieLink": "https://www.justwatch.com/us/movie/the-matrix"
     },
     {
       "id": 14,
@@ -223,7 +236,8 @@
       "Awards": "3 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3Mjk5MzI3OF5BMl5BanBnXkFtZTcwMTY4MzcyNA@@._V1_SX300.jpg",
       "Rotten Tomatoes": "82%",
-      "imdbRating": "6.9"
+      "imdbRating": "6.9",
+      "movieLink": "https://www.justwatch.com/us/movie/bill-and-teds-excellent-adventure"
     },
     {
       "id": 15,
@@ -239,7 +253,8 @@
       "Awards": "Nominated for 5 BAFTA 30 wins & 103 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "Rotten Tomatoes": "85%",
-      "imdbRating": "8.2"
+      "imdbRating": "8.2",
+      "movieLink": "https://www.justwatch.com/us/movie/kill-bill-vol-1"
     },
     {
       "id": 16,
@@ -255,7 +270,8 @@
       "Awards": "Nominated for 1 Oscar. 4 wins & 15 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg",
       "Rotten Tomatoes": "84%",
-      "imdbRating": "8.5"
+      "imdbRating": "8.5",
+      "movieLink": "https://www.justwatch.com/us/movie/american-history-x"
     },
     {
       "id": 17,
@@ -271,7 +287,8 @@
       "Awards": "1 win & 5 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTNmN2QyNTgtMTk0ZC00NmFhLWJlNzctZmMyYTczZTYyMzA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "47%",
-      "imdbRating": "7.0"
+      "imdbRating": "7.0",
+      "movieLink": "https://www.justwatch.com/us/movie/kids"
     },
     {
       "id": 18,
@@ -287,7 +304,8 @@
       "Awards": "1 win & 6 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1NjUxMDI3OV5BMl5BanBnXkFtZTcwNjg1ODM3OA@@._V1_SX300.jpg",
       "Rotten Tomatoes": "63%",
-      "imdbRating": "7.0"
+      "imdbRating": "7.0",
+      "movieLink": "https://www.justwatch.com/us/movie/one-shot"
     },
     {
       "id": 19,
@@ -303,7 +321,8 @@
       "Awards": "1 win",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2MDIwNzAyNzReQTJeQWpwZ15BbWU4MDAxNjI5Njkx._V1_SX300.jpg",
       "Rotten Tomatoes": "38%",
-      "imdbRating": "6.1"
+      "imdbRating": "6.1",
+      "movieLink": "https://www.justwatch.com/us/movie/jack-reacher-never-go-back"
     },
     {
       "id": 20,
@@ -319,7 +338,8 @@
       "Awards": "Nominated for 1 Oscar. 6 wins & 21 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWExYjI5MzktNTRhNi00Nzg2LThkZmQtYWVkYjRlYWI2MDQ4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
       "Rotten Tomatoes": "80%",
-      "imdbRating": "6.9"
+      "imdbRating": "6.9",
+      "movieLink": "https://www.justwatch.com/us/movie/the-mask"
     },
     {
       "id": 21,
@@ -335,7 +355,8 @@
       "Awards": "3 wins & 17 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTc3NjI2MjU0Nl5BMl5BanBnXkFtZTgwNDk3ODYxMTE@._V1_SX300.jpg",
       "Rotten Tomatoes": "66%",
-      "imdbRating": "7.1"
+      "imdbRating": "7.1",
+      "movieLink": "https://www.justwatch.com/us/movie/mission-impossible"
     },
     {
       "id": 22,
@@ -351,7 +372,8 @@
       "Awards": "12 wins & 20 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BN2RkYWVkZDQtNTMxMi00NWQ4LWE2ODctNmQzOWM2NjQzYzdlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
       "Rotten Tomatoes": "56%",
-      "imdbRating": "6.1"
+      "imdbRating": "6.1",
+      "movieLink": "https://www.justwatch.com/us/movie/m-i-2"
     },
     {
       "id": 23,
@@ -367,7 +389,8 @@
       "Awards": "7 wins & 14 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOThhNTA1YjItYzk2Ny00M2Y1LWJlYWUtZDQyZDU0YmY5Y2M5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "Rotten Tomatoes": "71%",
-      "imdbRating": "6.9"
+      "imdbRating": "6.9",
+      "movieLink": "https://www.justwatch.com/us/movie/mission-impossible-iii"
     },
     {
       "id": 24,
@@ -383,7 +406,8 @@
       "Awards": "5 wins & 30 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_SX300.jpg",
       "Rotten Tomatoes": "93%",
-      "imdbRating": "7.4"
+      "imdbRating": "7.4",
+      "movieLink": "https://www.justwatch.com/us/movie/mission-impossible-iv"
     },
     {
       "id": 25,
@@ -399,7 +423,8 @@
       "Awards": "6 wins & 26 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTFmNDA3ZjMtN2Y0MC00NDYyLWFlY2UtNTQ4OTQxMmY1NmVjXkEyXkFqcGdeQXVyNTg4NDQ4NDY@._V1_SX300.jpg",
       "Rotten Tomatoes": "94%",
-      "imdbRating": "7.4"
+      "imdbRating": "7.4",
+      "movieLink": "https://www.justwatch.com/us/movie/mission-impossible-rogue-nation"
     },
     {
       "id": 26,
@@ -415,7 +440,8 @@
       "Awards": "Nominated for 1 BAFTA Award25 wins & 41 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_SX300.jpg",
       "Rotten Tomatoes": "97%",
-      "imdbRating": "7.7"
+      "imdbRating": "7.7",
+      "movieLink": "https://www.justwatch.com/us/movie/mission-impossible-fallout"
     },
     {
       "id": 27,
@@ -431,7 +457,8 @@
       "Awards": "1 nomination",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzFiZjc1YzctMDY3Zi00NGE5LTlmNWEtN2Q3OWFjYjY1NGM2XkEyXkFqcGdeQXVyMTUyMTUzNjQ0._V1_SX300.jpg",
       "Rotten Tomatoes": "96%",
-      "imdbRating": "7.9"
+      "imdbRating": "7.9",
+      "movieLink": "https://www.justwatch.com/us/movie/mission-impossible-7"
     },
     {
       "id": 28,
@@ -447,7 +474,8 @@
       "Awards": "7 wins & 15 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjk1NzBlY2YtNjJmNi00YTVmLWI2OTgtNDUxNDE5NjUzZmE0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
       "Rotten Tomatoes": "77%",
-      "imdbRating": "7.6"
+      "imdbRating": "7.6",
+      "movieLink": "https://www.justwatch.com/us/movie/the-machinist"
     },
     {
       "id": 29,
@@ -463,7 +491,8 @@
       "Awards": "5 wins & 10 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
       "Rotten Tomatoes": "86%",
-      "imdbRating": "7.4"
+      "imdbRating": "7.4",
+      "movieLink": "https://www.justwatch.com/us/movie/john-wick"
     },
     {
       "id": 30,
@@ -479,7 +508,8 @@
       "Awards": "4 wins & 10 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_SX300.jpg",
       "Rotten Tomatoes": "89%",
-      "imdbRating": "7.4"
+      "imdbRating": "7.4",
+      "movieLink": "https://www.justwatch.com/us/movie/john-wick-chapter-two"
     },
     {
       "id": 31,
@@ -495,7 +525,8 @@
       "Awards": "18 wins & 29 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX300.jpg",
       "Rotten Tomatoes": "89%",
-      "imdbRating": "7.4"
+      "imdbRating": "7.4",
+      "movieLink": "https://www.justwatch.com/us/movie/john-wick-chapter-3-parabellum"
     },
     {
       "id": 32,
@@ -511,7 +542,8 @@
       "Awards": "1 win & 3 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDExZGMyOTMtMDgyYi00NGIwLWJhMTEtOTdkZGFjNmZiMTEwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
       "Rotten Tomatoes": "94%",
-      "imdbRating": "7.8"
+      "imdbRating": "7.8",
+      "movieLink": "https://www.justwatch.com/us/movie/john-wick-chapter-4"
     },
     {
       "id": 33,
@@ -527,7 +559,8 @@
       "Awards": "Nominated for 4 Oscars. 10 wins & 30 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMmRlZDQ1MmUtMzE2Yi00YTkxLTk1MGMtYmIyYWQwODcxYzRlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
       "Rotten Tomatoes": "84%",
-      "imdbRating": "7.7"
+      "imdbRating": "7.7",
+      "movieLink": "https://www.justwatch.com/us/movie/a-few-good-men"
     },
     {
       "id": 34,
@@ -543,7 +576,8 @@
       "Awards": "1 win & 7 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODFlMmEwMDgtYjhmZi00ZTE5LTk2NWQtMWE1Y2M0NjkzOGYxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "Rotten Tomatoes": "39%",
-      "imdbRating": "7.7"
+      "imdbRating": "7.7",
+      "movieLink": "https://www.justwatch.com/us/movie/man-on-fire-2004"
     },
     {
       "id": 35,
@@ -559,7 +593,8 @@
       "Awards": "2 wins & 8 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxNTQ1MzAyOF5BMl5BanBnXkFtZTYwNDg0ODk4._V1_SX300.jpg",
       "Rotten Tomatoes": "25%",
-      "imdbRating": "7.1"
+      "imdbRating": "7.1",
+      "movieLink": "https://www.justwatch.com/us/movie/john-q"
     },
     {
       "id": 36,
@@ -575,7 +610,8 @@
       "Awards": "Nominated for 3 Oscars. 5 wins & 9 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMmFkY2IxNTAtMWRiNS00MWU2LWI1NDYtY2YxYTQyYTk5OTBhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
       "Rotten Tomatoes": "89%",
-      "imdbRating": "7.3"
+      "imdbRating": "7.3",
+      "movieLink": "https://www.justwatch.com/us/movie/crimson-tide"
     },
     {
       "id": 37,
@@ -590,7 +626,8 @@
       "Plot": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins.",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmVhNmFmOGYtZjgwNi00ZGQ0LThiMmQtOGZjMDUzNzJhMGIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "Rotten Tomatoes": "48%",
-      "imdbRating": "6.9"
+      "imdbRating": "6.9",
+      "movieLink": "https://www.justwatch.com/us/movie/ace-ventura-1"
     },
     {
       "id": 38,
@@ -606,7 +643,8 @@
       "Awards": "7 wins & 6 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGFiYTgxZDctNGI4OS00MWU1LWIwOGUtZmMyNGQxYjVkZjQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "21%",
-      "imdbRating": "6.4"
+      "imdbRating": "6.4",
+      "movieLink": "https://www.justwatch.com/us/movie/ace-ventura-when-nature-calls"
     },
     {
       "id": 39,
@@ -622,7 +660,8 @@
       "Awards": "1 win & 7 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTBjODAzZDItZGY5My00YWMyLWE5NDItZGUyNTI2MWZkYTUyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "78%",
-      "imdbRating": "5.9"
+      "imdbRating": "5.9",
+      "movieLink": "https://www.justwatch.com/us/movie/undercover-brother"
     },
     {
       "id": 40,
@@ -638,7 +677,8 @@
       "Awards": "5 wins & 8 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjA3ZmMwNTUtNGM2Ni00YjUyLWE5ZDYtY2Y4YzhmYzlhYWI2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
       "Rotten Tomatoes": "43%",
-      "imdbRating": "6.5"
+      "imdbRating": "6.5",
+      "movieLink": "https://www.justwatch.com/us/movie/space-jam"
     },
     {
       "id": 41,
@@ -654,7 +694,8 @@
       "Awards": "Nominated for 1 Oscar. 14 wins & 79 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "85%",
-      "imdbRating": "8.2"
+      "imdbRating": "8.2",
+      "movieLink": "https://www.justwatch.com/us/movie/batman-begins"
     },
     {
       "id": 42,
@@ -670,7 +711,8 @@
       "Awards": "Won 2 Oscars. 162 wins & 164 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
       "Rotten Tomatoes": "94%",
-      "imdbRating": "9.0"
+      "imdbRating": "9.0",
+      "movieLink": "https://www.justwatch.com/us/movie/batman-the-dark-knight"
     },
     {
       "id": 43,
@@ -686,7 +728,8 @@
       "Awards": "Nominated for 1 BAFTA Award42 wins & 103 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg",
       "Rotten Tomatoes": "87%",
-      "imdbRating": "8.4"
+      "imdbRating": "8.4",
+      "movieLink": "https://www.justwatch.com/us/movie/the-dark-knight-rises"
     },
     {
       "id": 44,
@@ -702,7 +745,8 @@
       "Awards": "Won 3 Oscars. 30 wins & 31 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "Rotten Tomatoes": "97%",
-      "imdbRating": "9.2"
+      "imdbRating": "9.2",
+      "movieLink": "https://www.justwatch.com/us/movie/the-godfather-part-i"
     },
     {
       "id": 45,
@@ -718,7 +762,8 @@
       "Awards": "Won 8 Oscars. 30 wins & 10 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
       "Rotten Tomatoes": "99%",
-      "imdbRating": "8.1"
+      "imdbRating": "8.1",
+      "movieLink": "https://www.justwatch.com/us/movie/on-the-waterfront"
     },
     {
       "id": 46,
@@ -734,7 +779,8 @@
       "Awards": "Won 3 Oscars. 14 wins & 10 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
       "Rotten Tomatoes": "99%",
-      "imdbRating": "8.5"
+      "imdbRating": "8.5",
+      "movieLink": "https://www.justwatch.com/us/movie/casablanca"
     },
     {
       "id": 47,
@@ -750,7 +796,8 @@
       "Awards": "Won 5 Oscars. 38 wins & 15 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "93%",
-      "imdbRating": "8.7"
+      "imdbRating": "8.7",
+      "movieLink": "https://www.justwatch.com/us/movie/one-flew-over-the-cuckoos-nest"
     },
     {
       "id": 48,
@@ -766,7 +813,8 @@
       "Awards": "Won 5 Oscars. 70 wins & 50 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "Rotten Tomatoes": "95%",
-      "imdbRating": "8.6"
+      "imdbRating": "8.6",
+      "movieLink": "https://www.justwatch.com/us/movie/the-silence-of-the-lambs"
     },
     {
       "id": 49,
@@ -782,7 +830,8 @@
       "Awards": "3 wins & 13 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyMzY0NTMzMF5BMl5BanBnXkFtZTcwMTc1MjY4Mg@@._V1_SX300.jpg",
       "Rotten Tomatoes": "86%",
-      "imdbRating": "6.6"
+      "imdbRating": "6.6",
+      "movieLink": "https://www.justwatch.com/us/movie/the-bad-lieutenant-port-of-call-new-orleans"
     },
     {
       "id": 50,
@@ -798,7 +847,8 @@
       "Awards": "Won 1 Oscar. 44 wins & 38 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "Rotten Tomatoes": "96%",
-      "imdbRating": "8.7"
+      "imdbRating": "8.7",
+      "movieLink": "https://www.justwatch.com/us/movie/goodfellas"
     },
     {
       "id": 51,
@@ -814,7 +864,8 @@
       "Awards": "Won 3 Oscars. 21 wins & 23 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
       "Rotten Tomatoes": "92%",
-      "imdbRating": "8.1"
+      "imdbRating": "8.1",
+      "movieLink": "https://www.justwatch.com/us/movie/rocky"
     },
     {
       "id": 52,
@@ -830,7 +881,8 @@
       "Awards": "Nominated for 1 Oscar. 3 wins & 8 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTMyOTYzMDMzMF5BMl5BanBnXkFtZTcwMTkzODM1NA@@._V1_SX300.jpg",
       "Rotten Tomatoes": "65%",
-      "imdbRating": "6.8"
+      "imdbRating": "6.8",
+      "movieLink": "https://www.justwatch.com/us/movie/rocky-3"
     },
     {
       "id": 53,
@@ -846,7 +898,8 @@
       "Awards": "Won 4 Oscars. 24 wins & 15 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "89%",
-      "imdbRating": "8.1"
+      "imdbRating": "8.1",
+      "movieLink": "https://www.justwatch.com/us/movie/platoon"
     },
     {
       "id": 54,
@@ -862,7 +915,8 @@
       "Awards": "2 wins & 4 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzdhMTM2YTItOWU2YS00MTM0LTgyNDYtMDM1OWM3NzkzNTM2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
       "Rotten Tomatoes": "89%",
-      "imdbRating": "7.7"
+      "imdbRating": "7.7",
+      "movieLink": "https://www.justwatch.com/us/movie/dirty-harry"
     },
     {
       "id": 55,
@@ -878,7 +932,8 @@
       "Awards": "Won 4 Oscars. 22 wins & 15 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_SX300.jpg",
       "Rotten Tomatoes": "90%",
-      "imdbRating": "8.0"
+      "imdbRating": "8.0",
+      "movieLink": "https://www.justwatch.com/us/movie/butch-cassidy-and-the-sundance-kid"
     },
     {
       "id": 56,
@@ -894,7 +949,8 @@
       "Awards": "Won 1 Oscar. 6 wins & 14 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTM3ZjA3NTctZThkYy00ODYyLTk2ZjItZmE0MmZlMTk3YjQwXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
       "Rotten Tomatoes": "85%",
-      "imdbRating": "8.0"
+      "imdbRating": "8.0",
+      "movieLink": "https://www.justwatch.com/us/movie/scent-of-a-woman"
     },
     {
       "id": 57,
@@ -910,7 +966,8 @@
       "Awards": "50 wins & 111 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SX300.jpg",
       "Rotten Tomatoes": "90%",
-      "imdbRating": "7.3"
+      "imdbRating": "7.3",
+      "movieLink": "https://www.justwatch.com/us/movie/hereditary"
     },
     {
       "id": 58,
@@ -926,7 +983,8 @@
       "Awards": "4 wins & 13 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjMzZDBkMWItMzM4MC00YzNmLTgzNzctMmUwOGYyZTA5MDZlXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SX300.jpg",
       "Rotten Tomatoes": "91%",
-      "imdbRating": "6.1"
+      "imdbRating": "6.1",
+      "movieLink": "https://www.justwatch.com/us/movie/the-dark-and-the-wicked"
     },
     {
       "id": 59,
@@ -942,7 +1000,8 @@
       "Awards": "1 nomination",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5NDcxNjg5N15BMl5BanBnXkFtZTcwMDIyNzczMw@@._V1_SX300.jpg",
       "Rotten Tomatoes": "18%",
-      "imdbRating": "4.5"
+      "imdbRating": "4.5",
+      "movieLink": "https://www.justwatch.com/us/movie/soul-plane"
     },
     {
       "id": 60,
@@ -959,7 +1018,8 @@
       "Awards": "Nominated for 1 Oscar. 52 wins & 111 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SX300.jpg",
       "Rotten Tomatoes": "97%",
-      "imdbRating": "7.9"
+      "imdbRating": "7.9",
+      "movieLink": "https://www.justwatch.com/us/movie/knives-out"
     },
     {
       "id": 61,
@@ -975,7 +1035,8 @@
       "Awards": "Nominated for 1 Oscar. 52 wins & 123 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmZlZDZkZjYtNzE5Mi00ODFhLTk2OTgtZWVmODBiZTI4NGFiXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_SX300.jpg",
       "Rotten Tomatoes": "92%",
-      "imdbRating": "7.1"
+      "imdbRating": "7.1",
+      "movieLink": "https://www.justwatch.com/us/movie/knives-out-2"
     },
     {
       "id": 62,
@@ -991,7 +1052,8 @@
       "Awards": "3 wins & 3 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjg1ZmViMmEtYzIxNi00MzJlLTk4MDktNTE2ZDkwMzEyMjBhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg](https://m.media-amazon.com/images/M/MV5BZjg1ZmViMmEtYzIxNi00MzJlLTk4MDktNTE2ZDkwMzEyMjBhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg)",
       "Rotten Tomatoes": "88%",
-      "imdbRating": "7.2"
+      "imdbRating": "7.2",
+      "movieLink": "https://www.justwatch.com/us/movie/swingers"
     },
     {
       "id": 63,
@@ -1007,7 +1069,8 @@
       "Awards": "4 wins & 24 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzYyNzM2NzM2NF5BMl5BanBnXkFtZTcwNjg5NTQzMw@@._V1_SX300.jpg](https://m.media-amazon.com/images/M/MV5BNzYyNzM2NzM2NF5BMl5BanBnXkFtZTcwNjg5NTQzMw@@._V1_SX300.jpg)",
       "Rotten Tomatoes": "69%",
-      "imdbRating": "6.6"
+      "imdbRating": "6.6",
+      "movieLink": "https://www.justwatch.com/us/movie/hitch"
     },
     {
       "id": 64,
@@ -1023,7 +1086,8 @@
       "Awards": "1 Win",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODllYjM1ODItYjBmOC00MzkwLWJmM2YtMjMyZDU3MGJhNjc4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "65%",
-      "imdbRating": "7.8"
+      "imdbRating": "7.8",
+      "movieLink": "https://www.justwatch.com/us/movie/the-sandlot"
     },
     {
       "id": 65,
@@ -1039,7 +1103,8 @@
       "Awards": "6 wins & 9 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWM2NDZmYmYtNzlmZC00M2MyLWJmOGUtMjhiYmQ2OGU1YTE1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "62%",
-      "imdbRating": "7.0"
+      "imdbRating": "7.0",
+      "movieLink": "https://www.justwatch.com/us/movie/rush-hour"
     },
     {
       "id": 66,
@@ -1056,7 +1121,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ2Nzc3N15BMl5BanBnXkFtZTYwMTg4Njc3._V1_SX300.jpg",
       "Ratings": "https://m.media-amazon.com/images/M/MV5BMTUyOTQ2Nzc3N15BMl5BanBnXkFtZTYwMTg4Njc3._V1_SX300.jpg%22,%22Ratings)",
       "Rotten Tomatoes": "N/A",
-      "imdbRating": "5.7"
+      "imdbRating": "5.7",
+      "movieLink": "https://www.justwatch.com/us/movie/midsummer"
     },
     {
       "id": 67,
@@ -1072,7 +1138,8 @@
       "Awards": "Won 4 Oscars. 306 wins & 264 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
       "Rotten Tomatoes": "99%",
-      "imdbRating": "8.5"
+      "imdbRating": "8.5",
+      "movieLink": "https://www.justwatch.com/us/movie/parasite-2019"
     },
     {
       "id": 68,
@@ -1088,7 +1155,8 @@
       "Awards": "Won 5 Oscars. 60 wins & 104 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "Rotten Tomatoes": "80%",
-      "imdbRating": "8.5"
+      "imdbRating": "8.5",
+      "movieLink": "https://www.justwatch.com/us/movie/gladiator-2000"
     },
     {
       "id": 69,
@@ -1104,7 +1172,8 @@
       "Awards": "11 wins & 38 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SX300.jpg",
       "Rotten Tomatoes": "91%",
-      "imdbRating": "7.9"
+      "imdbRating": "7.9",
+      "movieLink": "https://www.justwatch.com/us/movie/edge-of-tomorrow"
     },
     {
       "id": 70,
@@ -1120,7 +1189,8 @@
       "Awards": "3 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGIzYjJmNzQtNDc5YS00ZWJhLWI3NzItODgzNWRlNmQ0NmRlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "47%",
-      "imdbRating": "6.2"
+      "imdbRating": "6.2",
+      "movieLink": "https://www.justwatch.com/us/movie/orange-county"
     },
     {
       "id": 71,
@@ -1136,7 +1206,8 @@
       "Awards": "Won 1 BAFTA Award7 wins & 17 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "Rotten Tomatoes": "94%",
-      "imdbRating": "8.0"
+      "imdbRating": "8.0",
+      "movieLink": "https://www.justwatch.com/us/movie/groundhog-day"
     },
     {
       "id": 72,
@@ -1152,7 +1223,8 @@
       "Awards": "Won 1 BAFTA Award69 wins & 104 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "Rotten Tomatoes": "96%",
-      "imdbRating": "8.1"
+      "imdbRating": "8.1",
+      "movieLink": "https://www.justwatch.com/us/movie/the-handmaiden"
     },
     {
       "id": 73,
@@ -1168,7 +1240,8 @@
       "Awards": "1 win & 8 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODNiZmY2MWUtMjFhMy00ZmM2LTg2MjYtNWY1OTY5NGU2MjdjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
       "Rotten Tomatoes": "34%",
-      "imdbRating": "7.6"
+      "imdbRating": "7.6",
+      "movieLink": "https://www.justwatch.com/us/movie/the-butterfly-effect"
     },
     {
       "id": 74,
@@ -1184,7 +1257,8 @@
       "Awards": "1 win & 4 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2E4Njk4N2UtZWFhOS00NzczLWFmNDgtMzdhMjFlNTZjMmVhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "70%",
-      "imdbRating": "7.0"
+      "imdbRating": "7.0",
+      "movieLink": "https://www.justwatch.com/us/movie/the-outsiders"
     },
     {
       "id": 75,
@@ -1200,7 +1274,8 @@
       "Awards": "Won 2 Oscars. 21 wins & 33 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
       "Rotten Tomatoes": "98%",
-      "imdbRating": "8.4"
+      "imdbRating": "8.4",
+      "movieLink": "https://www.justwatch.com/us/movie/apocalypse-now-redux"
     },
     {
       "id": 76,
@@ -1216,7 +1291,8 @@
       "Awards": "Nominated for 2 Oscars. 1 win & 12 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTliMTA3ZTUtYzJkMC00M2UzLTllYmItNjc1MzFhOTJmMmJjXkEyXkFqcGdeQXVyOTYyMTY2NzQ@._V1_SX300.jpg",
       "Rotten Tomatoes": "53%",
-      "imdbRating": "7.2"
+      "imdbRating": "7.2",
+      "movieLink": "https://www.justwatch.com/us/movie/willow"
     },
     {
       "id": 77,
@@ -1232,7 +1308,8 @@
       "Awards": "Nominated for 1 Oscar. 10 wins & 47 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDE5NjQzMDkzOF5BMl5BanBnXkFtZTcwODI3ODI3MQ@@._V1_SX300.jpg",
       "Rotten Tomatoes": "82%",
-      "imdbRating": "7.1"
+      "imdbRating": "7.1",
+      "movieLink": "https://www.justwatch.com/us/movie/tropic-thunder"
     },
     {
       "id": 78,
@@ -1248,7 +1325,8 @@
       "Awards": "14 wins & 34 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDBmYjU3NzAtZGVkNS00N2E3LWEyNTgtMjIwMTczYTE0M2Y4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "Rotten Tomatoes": "68%",
-      "imdbRating": "5.3"
+      "imdbRating": "5.3",
+      "movieLink": "https://www.justwatch.com/us/movie/spring-breakers"
     },
     {
       "id": 79,
@@ -1264,7 +1342,8 @@
       "Awards": "1 win & 7 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3MDUzMTAzOV5BMl5BanBnXkFtZTgwNDk3ODQyNzM@._V1_SX300.jpg",
       "Rotten Tomatoes": "57%",
-      "imdbRating": "5.5"
+      "imdbRating": "5.5",
+      "movieLink": "https://www.justwatch.com/us/movie/the-beach-bum"
     },
     {
       "id": 80,
@@ -1280,7 +1359,8 @@
       "Awards": "1 win",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmEwYmQwOWYtOWE4Yy00ZWIxLTgwMGEtYTNiNDVlODcwYWVkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
       "Rotten Tomatoes": "89%",
-      "imdbRating": "7.8"
+      "imdbRating": "7.8",
+      "movieLink": "https://www.justwatch.com/us/movie/jubei-ninpucho"
     },
     {
       "id": 81,
@@ -1296,7 +1376,8 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGQ3OTgzYTQtOTQzNS00Yjc4LTlhYjctYjQ3ZjhkNzMxOGFjXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_SX300.jpg",
       "Rotten Tomatoes": "86",
-      "imdbRating": "7.5"
+      "imdbRating": "7.5",
+      "movieLink": "https://www.justwatch.com/us/movie/rockers"
     },
     {
       "id": 82,
@@ -1312,7 +1393,8 @@
       "Awards": "1 win & 5 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NTk5Mzk2OV5BMl5BanBnXkFtZTcwMDE3NTE4MQ@@._V1_SX300.jpg",
       "Rotten Tomatoes": "60%",
-      "imdbRating": "7.2"
+      "imdbRating": "7.2",
+      "movieLink": "https://www.justwatch.com/us/movie/rocknrolla"
     },
     {
       "id": 83,
@@ -1328,7 +1410,8 @@
       "Awards": "4 wins & 7 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
       "Rotten Tomatoes": "74%",
-      "imdbRating": "8.2"
+      "imdbRating": "8.2",
+      "movieLink": "https://www.justwatch.com/us/movie/snatch"
     },
     {
       "id": 84,
@@ -1344,7 +1427,8 @@
       "Awards": "1 win & 4 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTlkMmVmYjktYTc2NC00ZGZjLWEyOWUtMjc2MDMwMjQwOTA5XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg",
       "Rotten Tomatoes": "N/A",
-      "imdbRating": "7.8"
+      "imdbRating": "7.8",
+      "movieLink": "https://www.justwatch.com/us/movie/the-gentlemen"
     },
     {
       "id": 85,
@@ -1360,7 +1444,8 @@
       "Awards": "1 nomination",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjg4YTFhYzUtNzlhZC00YzY1LWEzZmQtYzdjZGI0MWNkMzg4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
       "Rotten Tomatoes": "N/A",
-      "imdbRating": "5.1"
+      "imdbRating": "5.1",
+      "movieLink": "https://www.justwatch.com/us/movie/club-paradise"
     },
     {
       "id": 86,
@@ -1376,7 +1461,8 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmFiZDgyNzctMjU3NS00YjljLWJmYWUtNWQ3NWI3NzYxZWI3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "37%",
-      "imdbRating": "5.9"
+      "imdbRating": "5.9",
+      "movieLink": "https://www.justwatch.com/us/movie/wassup-rockers"
     },
     {
       "id": 87,
@@ -1392,7 +1478,8 @@
       "Awards": "4 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjZlMWM1MGEtY2M5OS00MWZhLWI1OGUtYTAwY2JlM2U1ZTgwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "29%",
-      "imdbRating": "6.2"
+      "imdbRating": "6.2",
+      "movieLink": "https://www.justwatch.com/us/movie/party-monster"
     },
     {
       "id": 88,
@@ -1408,7 +1495,8 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTdmMWU3MTktNWY3MC00MTlmLWJiM2QtZWQyM2E3MDI2YzI2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
       "Rotten Tomatoes": "77%",
-      "imdbRating": "7.1"
+      "imdbRating": "7.1",
+      "movieLink": "https://www.justwatch.com/us/movie/better-off-dead"
     },
     {
       "id": 89,
@@ -1424,7 +1512,8 @@
       "Awards": "5 wins & 13 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3MzM3NDE5MV5BMl5BanBnXkFtZTcwNDE5MTUxNA@@._V1_SX300.jpg",
       "Rotten Tomatoes": "19%",
-      "imdbRating": "6.4"
+      "imdbRating": "6.4",
+      "movieLink": "https://www.justwatch.com/us/movie/just-go-with-it"
     },
     {
       "id": 90,
@@ -1439,7 +1528,8 @@
       "Plot": "Jim is an influential big basketball player in New York who is slowly beginning to be drawn into the world of drugs.",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzIyZWQwYmYtMjcwNi00MzE0LTlhYzItMjJjYjMwMTEyOTZkXkEyXkFqcGdeQXVyNTk2MjMzMTQ@._V1_SX300.jpg",
       "Rotten Tomatoes": "N/A",
-      "imdbRating": "N/A"
+      "imdbRating": "N/A",
+      "movieLink": ""
     },
     {
       "id": 91,
@@ -1455,7 +1545,8 @@
       "Awards": "10 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDEzZjM2ZmItODczNC00OGE3LWE3YTEtMTA3OWZiNTkwYmI1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "80%",
-      "imdbRating": "6.9"
+      "imdbRating": "6.9",
+      "movieLink": "https://www.justwatch.com/us/movie/he-got-game"
     },
     {
       "id": 92,
@@ -1471,7 +1562,8 @@
       "Awards": "Won 1 Oscar. 18 wins & 23 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDZkMTUxYWEtMDY5NS00ZTA5LTg3MTItNTlkZWE1YWRjYjMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "74%",
-      "imdbRating": "7.7"
+      "imdbRating": "7.7",
+      "movieLink": "https://www.justwatch.com/us/movie/jour-de-formation"
     },
     {
       "id": 93,
@@ -1487,7 +1579,8 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjk3YTUwZmItN2ZhNi00YTFmLTgxMTctMmQzOTMxM2FlMGNjXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
       "Rotten Tomatoes": "18%",
-      "imdbRating": "6.0"
+      "imdbRating": "6.0",
+      "movieLink": "https://www.justwatch.com/us/movie/shottas"
     },
     {
       "id": 94,
@@ -1503,7 +1596,8 @@
       "Awards": "Nominated for 1 Oscar. 13 wins & 60 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
       "Rotten Tomatoes": "93%",
-      "imdbRating": "7.3"
+      "imdbRating": "7.3",
+      "movieLink": "https://www.justwatch.com/us/movie/raya-and-the-last-dragon"
     },
     {
       "id": 95,
@@ -1519,7 +1613,8 @@
       "Awards": "Won 1 Oscar. 17 wins & 58 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDliOTIzNmUtOTllOC00NDU3LWFiNjYtMGM0NDc1YTMxNjYxXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_SX300.jpg",
       "Rotten Tomatoes": "90%",
-      "imdbRating": "7.8"
+      "imdbRating": "7.8",
+      "movieLink": "https://www.justwatch.com/us/movie/big-hero-6"
     },
     {
       "id": 96,
@@ -1535,7 +1630,8 @@
       "Awards": "Nominated for 1 Oscar. 33 wins & 42 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzMxNTExOTkyMF5BMl5BanBnXkFtZTcwMzEyNDc0OA@@._V1_SX300.jpg",
       "Rotten Tomatoes": "87%",
-      "imdbRating": "7.7"
+      "imdbRating": "7.7",
+      "movieLink": "https://www.justwatch.com/us/movie/wreck-it-ralph"
     },
     {
       "id": 97,
@@ -1551,7 +1647,8 @@
       "Awards": "Nominated for 2 Oscars. 22 wins & 90 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "95%",
-      "imdbRating": "7.6"
+      "imdbRating": "7.6",
+      "movieLink": "https://www.justwatch.com/us/movie/moana-2016"
     },
     {
       "id": 98,
@@ -1567,7 +1664,8 @@
       "Awards": "Won 1 Oscar. 32 wins & 30 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_SX300.jpg",
       "Rotten Tomatoes": "91%",
-      "imdbRating": "7.5"
+      "imdbRating": "7.5",
+      "movieLink": "https://www.justwatch.com/us/movie/leaving-las-vegas"
     },
     {
       "id": 99,
@@ -1583,7 +1681,8 @@
       "Awards": "1 win & 3 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2RkY2M2N2QtZGY5ZS00YmVjLThmNTItY2ZkM2JlYmFhZWQyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
       "Rotten Tomatoes": "50%",
-      "imdbRating": "7.5"
+      "imdbRating": "7.5",
+      "movieLink": "https://www.justwatch.com/us/movie/fear-and-loathing-in-las-vegas"
     },
     {
       "id": 100,
@@ -1599,7 +1698,8 @@
       "Awards": "2 wins & 4 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5ODA4MjYxM15BMl5BanBnXkFtZTcwMTM3NTE5Ng@@._V1_SX300.jpg",
       "Rotten Tomatoes": "51%",
-      "imdbRating": "6.1"
+      "imdbRating": "6.1",
+      "movieLink": "https://www.justwatch.com/us/movie/the-rum-diary"
     },
     {
       "id": 101,
@@ -1615,7 +1715,8 @@
       "Awards": "3 wins & 5 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWEzNmUxZTMtZjY0My00OGNmLWIyNDctODM2YzZjM2YwZWEwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Rotten Tomatoes": "77%",
-      "imdbRating": "7.2"
+      "imdbRating": "7.2",
+      "movieLink": "https://www.justwatch.com/us/movie/the-lost-boys"
     },
     {
       "id": 102,
@@ -1631,7 +1732,8 @@
       "Awards": "Won 4 Oscars. 73 wins & 86 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDA2YjNkMjEtZjcwNy00ZTc5LWEzNDItMjE0ODlmMDAzNDFkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "Rotten Tomatoes": "93%",
-      "imdbRating": "7.6"
+      "imdbRating": "7.6",
+      "movieLink": "https://www.justwatch.com/us/movie/traffic"
     },
     {
       "id": 103,
@@ -1647,7 +1749,8 @@
       "Awards": "Nominated for 1 BAFTA Award2 wins & 5 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDQyNDkzZGEtZjE2NC00M2I3LWI1YmItNTcxOTJkMTg3ZmNkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
       "Rotten Tomatoes": "77%",
-      "imdbRating": "7.1"
+      "imdbRating": "7.1",
+      "movieLink": "https://www.justwatch.com/us/movie/the-dark-crystal"
     },
     {
       "id": 104,
@@ -1663,7 +1766,8 @@
       "Awards": "Nominated for 5 Oscars. 6 wins & 23 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjMxODllYTEtN2NmOS00NmE1LWFhMzUtOWRmZmQwZjgwOWM2XkEyXkFqcGdeQXVyOTYyMTY2NzQ@._V1_SX300.jpg",
       "Rotten Tomatoes": "29%",
-      "imdbRating": "6.8"
+      "imdbRating": "6.8",
+      "movieLink": "https://www.justwatch.com/us/movie/capitaine-crochet"
     },
     {
       "id": 105,
@@ -1679,7 +1783,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BODQ0OWJiMzktYjNlYi00MzcwLThlZWMtMzRkYTY4ZDgxNzgxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "Awards": "Nominated for 1 Oscar. 12 wins & 38 nominations total",
       "Rotten Tomatoes": "79",
-      "imdbRating": "8.8"
+      "imdbRating": "8.8",
+      "movieLink": "https://www.justwatch.com/us/movie/fight-club"
     },
     {
       "id": 106,
@@ -1695,7 +1800,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX300.jpg",
       "Awards": "Won 1 Oscar. 94 wins & 216 nominations total",
       "Rotten Tomatoes": "96%",
-      "imdbRating": "8.3"
+      "imdbRating": "8.3",
+      "movieLink": "https://www.justwatch.com/us/movie/top-gun-maverick"
     },
     {
       "id": 107,
@@ -1711,7 +1817,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@._V1_SX300.jpg,",
       "Awards": "Won 1 Oscar. 27 wins & 95 nominations total",
       "Rotten Tomatoes": "94%",
-      "imdbRating": "7.9"
+      "imdbRating": "7.9",
+      "movieLink": "https://www.justwatch.com/us/movie/star-trek"
     },
     {
       "id": 108,
@@ -1727,7 +1834,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_SX300.jpg",
       "Awards": "Nominated for 1 BAFTA Award7 wins & 48 nominations total",
       "Rotten Tomatoes": "72%",
-      "imdbRating": "6.9"
+      "imdbRating": "6.9",
+      "movieLink": "https://www.justwatch.com/us/movie/pacific-rim"
     },
     {
       "id": 109,
@@ -1743,7 +1851,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_SX300.jpg",
       "Awards": "17 wins & 27 nominations",
       "Rotten Tomatoes": "98%",
-      "imdbRating": "8.4"
+      "imdbRating": "8.4",
+      "movieLink": "https://www.justwatch.com/us/movie/your-name"
     },
     {
       "id": 110,
@@ -1759,7 +1868,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Awards": "2 wins & 1 nomination",
       "Rotten Tomatoes": "88%",
-      "imdbRating": "7.2"
+      "imdbRating": "7.2",
+      "movieLink": "https://www.justwatch.com/us/movie/barbie-2023"
     },
     {
       "id": 111,
@@ -1775,7 +1885,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGY5MzU3MzItNDBjMC00YjQzLWEzMTUtMGMxMTEzYjhkMGNkXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg",
       "Awards": "6 nominations.",
       "Rotten Tomatoes": "N/A",
-      "imdbRating": "6.9"
+      "imdbRating": "6.9",
+      "movieLink": "https://www.justwatch.com/us/movie/barbie-as-the-princess-and-the-pauper"
     },
     {
       "id": 112,
@@ -1791,7 +1902,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_SX300.jpg",
       "Awards": "Won 6 Oscars. 65 wins & 31 nominations total",
       "Rotten Tomatoes": "93%",
-      "imdbRating": "8.6"
+      "imdbRating": "8.6",
+      "movieLink": "https://www.justwatch.com/us/movie/star-wars-episode-iv-a-new-hope"
     },
     {
       "id": 113,
@@ -1807,7 +1919,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "Awards": "Won 1 Oscar. 26 wins & 20 nominations total",
       "Rotten Tomatoes": "94%",
-      "imdbRating": "8.7"
+      "imdbRating": "8.7",
+      "movieLink": "https://www.justwatch.com/us/movie/star-wars-episode-v-the-empire-strikes-back"
     },
     {
       "id": 114,
@@ -1823,7 +1936,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
       "Awards": "Nominated for 4 Oscars. 23 wins & 20 nominations total",
       "Rotten Tomatoes": "83%",
-      "imdbRating": "8.3"
+      "imdbRating": "8.3",
+      "movieLink": "https://www.justwatch.com/us/movie/star-wars-episode-vi-return-of-the-jedi"
     },
     {
       "id": 115,
@@ -1839,7 +1953,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzcyMjExNjg3OF5BMl5BanBnXkFtZTgwOTY4Mjc1MDE@._V1_SX300.jpg",
       "Awards": "10 wins & 10 nominations",
       "Rotten Tomatoes": "23%",
-      "imdbRating": "5.0"
+      "imdbRating": "5.0",
+      "movieLink": "https://www.justwatch.com/us/movie/showgirls"
     },
     {
       "id": 116,
@@ -1855,7 +1970,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTc1OTY4Ml5BMl5BanBnXkFtZTgwMDY3NDcxMDE@._V1_SX300.jpg",
       "Awards": "N/A",
       "Rotten Tomatoes": "N/A",
-      "imdbRating": "1.8"
+      "imdbRating": "1.8",
+      "movieLink": "https://www.justwatch.com/us/movie/showgirls-2-pennys-from-heaven"
     },
     {
       "id": 117,
@@ -1871,7 +1987,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGRkOGMxYTUtZTBhYS00NzI3LWEzMDQtOWRhMmNjNjJjMzM4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "Awards": "6 wins & 9 nominations",
       "Rotten Tomatoes": "N/A",
-      "imdbRating": "8.1"
+      "imdbRating": "8.1",
+      "movieLink": "https://www.justwatch.com/us/movie/a-silent-voice"
     },
     {
       "id": 118,
@@ -1887,7 +2004,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ1NzRhYjYtMWY3My00ODA0LTk5ZDctYjQ4YjE0M2RhMGNiXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
       "Awards": "5 wins & 12 nominations",
       "Rotten Tomatoes": "66%",
-      "imdbRating": "6.2"
+      "imdbRating": "6.2",
+      "movieLink": "https://www.justwatch.com/us/movie/the-karate-kid"
     },
     {
       "id": 119,
@@ -1903,7 +2021,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWM2NDZmYmYtNzlmZC00M2MyLWJmOGUtMjhiYmQ2OGU1YTE1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Awards": "6 wins & 9 nominations",
       "Rotten Tomatoes": "62%",
-      "imdbRating": "7.0"
+      "imdbRating": "7.0",
+      "movieLink": "https://www.justwatch.com/us/movie/rush-hour"
     },
     {
       "id": 120,
@@ -1919,7 +2038,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BODhlNGJjMWQtZGMyYS00MzJhLWJhZGMtY2NlNDI5Nzg5NTU2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
       "Awards": "10 wins & 22 nominations",
       "Rotten Tomatoes": "51%",
-      "imdbRating": "6.7"
+      "imdbRating": "6.7",
+      "movieLink": "https://www.justwatch.com/us/movie/rush-hour-2"
     },
     {
       "id": 121,
@@ -1935,7 +2055,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTA0Nzg5NjQ0MDBeQTJeQWpwZ15BbWU3MDE4Mzg5NDE@._V1_SX300.jpg",
       "Awards": "9 nominations",
       "Rotten Tomatoes": "17%",
-      "imdbRating": "6.2"
+      "imdbRating": "6.2",
+      "movieLink": "https://www.justwatch.com/us/movie/heure-limite-3"
     },
     {
       "id": 122,
@@ -1951,7 +2072,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BNWI1NjkxM2MtOTU4My00YzQ5LTliNGMtNmFlM2U5NWM3MDY1XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
       "Awards": "Nominated for 3 Oscars. 25 wins & 50 nominations total",
       "Rotten Tomatoes": "57%",
-      "imdbRating": "7.0"
+      "imdbRating": "7.0",
+      "movieLink": "https://www.justwatch.com/us/movie/transformers-bonus"
     },
     {
       "id": 123,
@@ -1967,7 +2089,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_SX300.jpg",
       "Awards": "Nominated for 1 Oscar. 15 wins & 31 nominations total",
       "Rotten Tomatoes": "20%",
-      "imdbRating": "5.9"
+      "imdbRating": "5.9",
+      "movieLink": "https://www.justwatch.com/us/movie/transformers-revenge-of-the-fallen"
     },
     {
       "id": 124,
@@ -1983,7 +2106,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_SX300.jpg",
       "Awards": "Nominated for 3 Oscars. 11 wins & 42 nominations total",
       "Rotten Tomatoes": "35%",
-      "imdbRating": "6.2"
+      "imdbRating": "6.2",
+      "movieLink": "https://www.justwatch.com/us/movie/transformers-dark-of-the-moon"
     },
     {
       "id": 125,
@@ -1999,7 +2123,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1_SX300.jpg",
       "Awards": "5 wins & 23 nominations",
       "Rotten Tomatoes": "18%",
-      "imdbRating": "5.6"
+      "imdbRating": "5.6",
+      "movieLink": "https://www.justwatch.com/us/movie/transformers-4-age-of-extinction"
     },
     {
       "id": 126,
@@ -2015,7 +2140,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BN2YwOWM4ODgtZTMzMi00ZmFmLTk5NTEtNmY4ZDcwNzQxNDhjXkEyXkFqcGdeQXVyNTI0NzAyNjY@._V1_SX300.jpg",
       "Awards": "3 wins & 20 nominations",
       "Rotten Tomatoes": "16%",
-      "imdbRating": "5.2"
+      "imdbRating": "5.2",
+      "movieLink": "https://www.justwatch.com/us/movie/transformers-the-last-knight"
     },
     {
       "id": 127,
@@ -2031,7 +2157,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_SX300.jpg",
       "Awards": "2 wins & 13 nominations",
       "Rotten Tomatoes": "91%",
-      "imdbRating": "6.7"
+      "imdbRating": "6.7",
+      "movieLink": "https://www.justwatch.com/us/movie/bumblebee"
     },
     {
       "id": 128,
@@ -2047,7 +2174,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTNiNDA4NmMtNTExNi00YmViLWJkMDAtMDAxNmRjY2I2NDVjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
       "Awards": "N/A",
       "Rotten Tomatoes": "52%",
-      "imdbRating": "6.1"
+      "imdbRating": "6.1",
+      "movieLink": "https://www.justwatch.com/us/movie/transformers-rise-of-the-beasts-2023"
     },
     {
       "id": 129,
@@ -2063,7 +2191,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_SX300.jpg",
       "Awards": "33 wins & 16 nominations",
       "Rotten Tomatoes": "49%",
-      "imdbRating": "5.3"
+      "imdbRating": "5.3",
+      "movieLink": "https://www.justwatch.com/us/movie/twilight"
     },
     {
       "id": 130,
@@ -2079,7 +2208,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTI3MjE3NDIxNF5BMl5BanBnXkFtZTcwODM3NTY5Mg@@._V1_SX300.jpg",
       "Awards": "20 wins & 24 nominations",
       "Rotten Tomatoes": "29%",
-      "imdbRating": "4.8"
+      "imdbRating": "4.8",
+      "movieLink": "https://www.justwatch.com/us/movie/the-twilight-saga-new-moon"
     },
     {
       "id": 131,
@@ -2095,7 +2225,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDMwNjAzNzYwOF5BMl5BanBnXkFtZTcwMDY5NzcyMw@@._V1_SX300.jpg",
       "Awards": "22 wins & 35 nominations",
       "Rotten Tomatoes": "47%",
-      "imdbRating": "5.1"
+      "imdbRating": "5.1",
+      "movieLink": "https://www.justwatch.com/us/movie/the-twilight-saga-eclipse"
     },
     {
       "id": 132,
@@ -2111,7 +2242,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BODgxNDE0OTAzOF5BMl5BanBnXkFtZTcwNzcwODE2Ng@@._V1_SX300.jpg",
       "Awards": "11 wins & 22 nominations",
       "Rotten Tomatoes": "25%",
-      "imdbRating": "4.9"
+      "imdbRating": "4.9",
+      "movieLink": "https://www.justwatch.com/us/movie/the-twilight-saga-breaking-dawn-part-1"
     },
     {
       "id": 133,
@@ -2127,7 +2259,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyMzUyMzY1OF5BMl5BanBnXkFtZTcwNDQ4ODk1OA@@._V1_SX300.jpg",
       "Awards": "Nominated for 1 BAFTA Award21 wins & 15 nominations total",
       "Rotten Tomatoes": "49%",
-      "imdbRating": "5.5"
+      "imdbRating": "5.5",
+      "movieLink": "https://www.justwatch.com/us/movie/the-twilight-saga-breaking-dawn-part-2"
     },
     {
       "id": 134,
@@ -2143,7 +2276,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDQwMjNiMTQtY2UwYy00NjhiLTk0ZWEtZWM5ZWMzNGFjNTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Awards": "5 wins & 3 nominations",
       "Rotten Tomatoes": "68%",
-      "imdbRating": "7.3"
+      "imdbRating": "7.3",
+      "movieLink": "https://www.justwatch.com/us/movie/dumb-and-dumber"
     },
     {
       "id": 135,
@@ -2159,7 +2293,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxMzA0MzAyMF5BMl5BanBnXkFtZTgwMjMyNjcwMjE@._V1_SX300.jpg",
       "Awards": "1 win & 7 nominations",
       "Rotten Tomatoes": "30%",
-      "imdbRating": "5.6"
+      "imdbRating": "5.6",
+      "movieLink": "https://www.justwatch.com/us/movie/dumb-and-dumber-to"
     },
     {
       "id": 136,
@@ -2175,7 +2310,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg",
       "Awards": "Nominated for 3 Oscars. 19 wins & 69 nominations total",
       "Rotten Tomatoes": "81%",
-      "imdbRating": "7.6"
+      "imdbRating": "7.6",
+      "movieLink": "https://www.justwatch.com/us/movie/harry-potter-and-the-philosophers-stone"
     },
     {
       "id": 137,
@@ -2191,7 +2327,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0YjUzNDUtMjc5OS00MTU3LTgxMmUtODhkOThkMzdjNWI4XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_SX300.jpg",
       "Awards": "Won 1 BAFTA Award13 wins & 46 nominations total",
       "Rotten Tomatoes": "82%",
-      "imdbRating": "7.4"
+      "imdbRating": "7.4",
+      "movieLink": "https://www.justwatch.com/us/movie/harry-potter-and-the-chamber-of-secrets"
     },
     {
       "id": 138,
@@ -2207,7 +2344,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg",
       "Awards": "Nominated for 2 Oscars. 17 wins & 53 nominations total",
       "Rotten Tomatoes": "90%",
-      "imdbRating": "7.9"
+      "imdbRating": "7.9",
+      "movieLink": "https://www.justwatch.com/us/movie/harry-potter-and-the-prisoner-of-azkaban"
     },
     {
       "id": 139,
@@ -2223,7 +2361,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_SX300.jpg",
       "Awards": "Nominated for 1 Oscar. 13 wins & 44 nominations total",
       "Rotten Tomatoes": "88%",
-      "imdbRating": "7.7"
+      "imdbRating": "7.7",
+      "movieLink": "https://www.justwatch.com/us/movie/harry-potter-and-the-goblet-of-fire"
     },
     {
       "id": 140,
@@ -2239,7 +2378,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTA3MmRmZDgtOWU1Ny00ZDc5LWFkN2YtNzNlY2UxZmY0N2IyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
       "Awards": "Nominated for 2 BAFTA 17 wins & 47 nominations total",
       "Rotten Tomatoes": "78%",
-      "imdbRating": "7.5"
+      "imdbRating": "7.5",
+      "movieLink": "https://www.justwatch.com/us/movie/harry-potter-and-the-order-of-the-phoenix"
     },
     {
       "id": 141,
@@ -2255,7 +2395,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_SX300.jpg",
       "Awards": "Nominated for 1 Oscar. 9 wins & 39 nominations total",
       "Rotten Tomatoes": "84%",
-      "imdbRating": "7.6"
+      "imdbRating": "7.6",
+      "movieLink": "https://www.justwatch.com/us/movie/harry-potter-and-the-half-blood-prince"
     },
     {
       "id": 142,
@@ -2271,7 +2412,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_SX300.jpg",
       "Awards": "Nominated for 2 Oscars. 15 wins & 55 nominations total",
       "Rotten Tomatoes": "77%",
-      "imdbRating": "7.7"
+      "imdbRating": "7.7",
+      "movieLink": "https://www.justwatch.com/us/movie/harry-potter-7-deathly-hallows-part-1"
     },
     {
       "id": 143,
@@ -2287,7 +2429,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
       "Awards": "Nominated for 3 Oscars. 47 wins & 94 nominations total",
       "Rotten Tomatoes": "96%",
-      "imdbRating": "8.1"
+      "imdbRating": "8.1",
+      "movieLink": "https://www.justwatch.com/us/movie/harry-potter-and-the-deathly-hallows-part-2"
     },
     {
       "id": 144,
@@ -2303,7 +2446,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2M1MzI1MWYtYmM2ZC00OWY3LTk0ZGMtNmRkNzU1NzEzMWE5XkEyXkFqcGdeQXVyODUwOTkwODk@._V1_SX300.jpg",
       "Awards": "1 win & 7 nominations",
       "Rotten Tomatoes": "49%",
-      "imdbRating": "7.6"
+      "imdbRating": "7.6",
+      "movieLink": "https://www.justwatch.com/us/movie/saw"
     },
     {
       "id": 145,
@@ -2319,7 +2463,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTRjMDNmNjctNjg4ZC00N2ZkLThkMzMtOWRmYTFhMzA1ZDZlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
       "Awards": "3 nominations",
       "Rotten Tomatoes": "36%",
-      "imdbRating": "6.6"
+      "imdbRating": "6.6",
+      "movieLink": "https://www.justwatch.com/us/movie/saw-ii"
     },
     {
       "id": 146,
@@ -2335,7 +2480,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BNWVjMzgwMTctZmZjNC00ZmE0LThiNTUtYzkyM2RkYWIzY2Y2XkEyXkFqcGdeQXVyNjEyNDAyMzI@._V1_SX300.jpg",
       "Awards": "1 win & 5 nominations",
       "Rotten Tomatoes": "28%",
-      "imdbRating": "6.2"
+      "imdbRating": "6.2",
+      "movieLink": "https://www.justwatch.com/us/movie/saw-iii"
     },
     {
       "id": 147,
@@ -2351,7 +2497,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjc0NjUyNzg3MF5BMl5BanBnXkFtZTYwODMxOTM3._V1_SX300.jpg",
       "Awards": "1 win & 2 nominations",
       "Rotten Tomatoes": "17%",
-      "imdbRating": "5.9"
+      "imdbRating": "5.9",
+      "movieLink": "https://www.justwatch.com/us/movie/saw-iv"
     },
     {
       "id": 148,
@@ -2367,7 +2514,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjczOTYxOTktYjJkYy00ZWM2LWEzN2ItNTY1MmI1ZDBiZDU2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Awards": "1 win & 3 nominations",
       "Rotten Tomatoes": "13%",
-      "imdbRating": "5.8"
+      "imdbRating": "5.8",
+      "movieLink": "https://www.justwatch.com/us/movie/saw-5"
     },
     {
       "id": 149,
@@ -2383,7 +2531,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_SX300.jpg",
       "Awards": "Won 2 Oscars",
       "Rotten Tomatoes": "74%",
-      "imdbRating": "7.1"
+      "imdbRating": "7.1",
+      "movieLink": "https://www.justwatch.com/us/movie/cars"
     },
     {
       "id": 150,
@@ -2399,7 +2548,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_SX300.jpg",
       "Awards": "Nominated for 1 Oscar",
       "Rotten Tomatoes": "39%",
-      "imdbRating": "6.1"
+      "imdbRating": "6.1",
+      "movieLink": "https://www.justwatch.com/us/movie/cars-2"
     },
     {
       "id": 151,
@@ -2415,7 +2565,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0NzU2OTYyN15BMl5BanBnXkFtZTgwMTkwOTg2MTI@._V1_SX300.jpg",
       "Awards": "Nominated for 2 Annie Awards",
       "Rotten Tomatoes": "69%",
-      "imdbRating": "6.7"
+      "imdbRating": "6.7",
+      "movieLink": "https://www.justwatch.com/us/movie/cars-3"
     },
     {
       "id": 152,
@@ -2431,7 +2582,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_SX300.jpg",
       "Awards": "Nominated for 1 Academy Award",
       "Rotten Tomatoes": "81%",
-      "imdbRating": "7.6"
+      "imdbRating": "7.6",
+      "movieLink": "https://www.justwatch.com/us/movie/despicable-me"
     },
     {
       "id": 153,
@@ -2447,7 +2599,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxNzY1MjI5NF5BMl5BanBnXkFtZTcwNTI0MDY1OQ@@._V1_SX300.jpg",
       "Awards": "Nominated for 2 Academy Awards",
       "Rotten Tomatoes": "74%",
-      "imdbRating": "7.3"
+      "imdbRating": "7.3",
+      "movieLink": "https://www.justwatch.com/us/movie/despicable-me-2"
     },
     {
       "id": 154,
@@ -2463,7 +2616,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_SX300.jpg",
       "Awards": "Nominated for 1 Kids' Choice Award",
       "Rotten Tomatoes": "58%",
-      "imdbRating": "6.3"
+      "imdbRating": "6.3",
+      "movieLink": "https://www.justwatch.com/us/movie/despicable-me-3"
     },
     {
       "id": 155,
@@ -2479,7 +2633,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2ODE1MTgxMV5BMl5BanBnXkFtZTcwNTM1NTM2Mg@@._V1_SX300.jpg",
       "Awards": "Nominated for 2 Annie Awards",
       "Rotten Tomatoes": "57%",
-      "imdbRating": "7.1"
+      "imdbRating": "7.1",
+      "movieLink": "https://www.justwatch.com/us/movie/9"
     },
     {
       "id": 156,
@@ -2495,7 +2650,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTExMWQzMWUtM2M2OS00NzdjLTg4OTAtOTYxNTRkZTQ1MzRmXkEyXkFqcGdeQXVyMTM0NDUyMTcy._V1_SX300.jpg",
       "Awards": "N/A",
       "Rotten Tomatoes": "N/A",
-      "imdbRating": "6.0"
+      "imdbRating": "6.0",
+      "movieLink": "https://www.imdb.com/title/tt19632878/"
     },
     {
       "id": 157,
@@ -2511,7 +2667,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_SX300.jpg",
       "Awards": "Won 3 Oscars. 135 wins & 204 nominations total",
       "Rotten Tomatoes": "89%",
-      "imdbRating": "8.2"
+      "imdbRating": "8.2",
+      "movieLink": "https://www.justwatch.com/us/movie/1917"
     },
     {
       "id": 158,
@@ -2527,7 +2684,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwMzE2MjM4MV5BMl5BanBnXkFtZTYwNjA1OTY3._V1_SX300.jpg",
       "Awards": "1 win & 5 nominations",
       "Rotten Tomatoes": "70%",
-      "imdbRating": "6.7"
+      "imdbRating": "6.7",
+      "movieLink": "https://www.justwatch.com/us/movie/dodgeball-a-true-underdog-story"
     },
     {
       "id": 159,
@@ -2543,7 +2701,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4YjQxYzAtNzAyNy00Zjk1LTk4ZTMtNTUwNTBjMWY1M2IwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "Awards": "2 nominations",
       "Rotten Tomatoes": "19%",
-      "imdbRating": "6.4"
+      "imdbRating": "6.4",
+      "movieLink": "https://www.justwatch.com/us/movie/national-lampoons-van-wilder"
     },
     {
       "id": 160,
@@ -2559,7 +2718,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTllNDU0ZTItYTYxMC00OTI4LThlNDAtZjNiNzdhMWZiYjNmXkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_SX300.jpg",
       "Awards": "Nominated for 1 Academy Award",
       "Rotten Tomatoes": "90%",
-      "imdbRating": "7.8"
+      "imdbRating": "7.8",
+      "movieLink": "https://www.justwatch.com/us/movie/willy-wonka-and-the-chocolate-factory"
     },
     {
       "id": 161,
@@ -2575,7 +2735,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3MWEyNTYtOTY1OC00MTljLWI3OGUtMmU1ZDc2OTYxNDQ4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_SX300.jpg",
       "Awards": "Won 2 Primetime Emmys. 10 wins & 19 nominations total",
       "Rotten Tomatoes": "67",
-      "imdbRating": "5.5/10"
+      "imdbRating": "5.5/10",
+      "movieLink": "https://www.justwatch.com/us/movie/high-school-musical"
     },
     {
       "id": 162,
@@ -2591,7 +2752,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
       "Awards": "Won 1 Oscar. 134 wins & 172 nominations total",
       "Rotten Tomatoes": "89%",
-      "imdbRating": "8.3/10"
+      "imdbRating": "8.3/10",
+      "movieLink": "https://www.justwatch.com/us/movie/inglorious-basterds"
     },
     {
       "id": 163,
@@ -2607,7 +2769,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",
       "Awards": "Won 2 Oscars. 109 wins & 40 nominations total",
       "Rotten Tomatoes": "97%",
-      "imdbRating": "8.4/10"
+      "imdbRating": "8.4/10",
+      "movieLink": "https://www.justwatch.com/us/movie/coco"
     },
     {
       "id": 164,
@@ -2623,7 +2786,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BNWNiNTczNzEtMjQyZC00MjFmLTkzMDMtODk4ZGMyZmE0N2E4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "Awards": "Won 1 Oscar. 18 wins & 37 nominations total",
       "Rotten Tomatoes": "49%",
-      "imdbRating": "6.3/10"
+      "imdbRating": "6.3/10",
+      "movieLink": "https://www.justwatch.com/us/movie/how-the-grinch-stole-christmas"
     },
     {
       "id": 165,
@@ -2639,7 +2803,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmUyOTE4YmItN2E0Zi00M2ViLWIxMTctMmZhMDRhMDZhOWZlXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
       "Awards": "1 nomination",
       "Rotten Tomatoes": "60%",
-      "imdbRating": "6.5/10"
+      "imdbRating": "6.5/10",
+      "movieLink": "https://www.justwatch.com/us/movie/an-american-tail-fievel-goes-west"
     },
     {
       "id": 166,
@@ -2655,7 +2820,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SX300.jpg",
       "Awards": "Won 4 Oscars. 135 wins & 226 nominations total",
       "Rotten Tomatoes": "92%",
-      "imdbRating": "8.1/10"
+      "imdbRating": "8.1/10",
+      "movieLink": "https://www.justwatch.com/us/movie/the-grand-budapest-hotel"
     },
     {
       "id": 167,
@@ -2671,7 +2837,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
       "Awards": "Won 1 Oscar. 18 wins & 22 nominations total",
       "Rotten Tomatoes": "98%",
-      "imdbRating": "8.5/10"
+      "imdbRating": "8.5/10",
+      "movieLink": "https://www.justwatch.com/us/movie/alien"
     },
     {
       "id": 168,
@@ -2687,7 +2854,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "Awards": "14 nominations",
       "Rotten Tomatoes": "89%",
-      "imdbRating": "8.3/10"
+      "imdbRating": "8.3/10",
+      "movieLink": "https://www.justwatch.com/us/movie/heat-1995"
     },
     {
       "id": 169,
@@ -2703,7 +2871,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
       "Awards": "Won 3 Oscars. 109 wins & 115 nominations total",
       "Rotten Tomatoes": "95%",
-      "imdbRating": "8.2/10"
+      "imdbRating": "8.2/10",
+      "movieLink": "https://www.justwatch.com/us/movie/pans-labyrinth"
     },
     {
       "id": 170,
@@ -2719,7 +2888,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg",
       "Awards": "Nominated for 3 Oscars. 29 wins & 23 nominations total",
       "Rotten Tomatoes": "100%",
-      "imdbRating": "8.3/10"
+      "imdbRating": "8.3/10",
+      "movieLink": "https://www.justwatch.com/us/movie/toy-story"
     },
     {
       "id": 171,
@@ -2735,7 +2905,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SX300.jpg",
       "Awards": "Nominated for 2 Oscars. 24 wins & 85 nominations total",
       "Rotten Tomatoes": "84%",
-      "imdbRating": "7.8/10"
+      "imdbRating": "7.8/10",
+      "movieLink": "https://www.justwatch.com/us/movie/rogue-one-a-star-wars-story"
     },
     {
       "id": 172,
@@ -2751,7 +2922,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzliZDk0NjctNjhlOC00MWEyLWI3OWYtNjA5ZDYxMTMzNTc5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
       "Awards": "5 wins & 18 nominations",
       "Rotten Tomatoes": "80%",
-      "imdbRating": "8.1/10"
+      "imdbRating": "8.1/10",
+      "movieLink": "https://www.justwatch.com/us/movie/the-big-lebowski"
     },
     {
       "id": 173,
@@ -2767,7 +2939,8 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTcxMmQxZGItZDE3Yy00NGZkLTljMTAtZTEyYTdmZjRkNjE2XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
       "Awards": "N/A",
       "Rotten Tomatoes": "N/A",
-      "imdbRating": "6.5/10"
+      "imdbRating": "6.5/10",
+      "movieLink": "https://www.justwatch.com/us/movie/north-shore"
     },
     {
       "id": 174,
@@ -2782,7 +2955,8 @@
       "Plot": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye.",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWM5ZDcxMTYtNTEyNS00MDRkLWI3YTItNThmMGExMWY4NDIwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
       "Rotten Tomatoes": "100%",
-      "imdbRating": "7.9/10"
+      "imdbRating": "7.9/10",
+      "movieLink": "https://www.justwatch.com/us/movie/toy-story-2"
     },
     {
       "id": 175,
@@ -2798,7 +2972,8 @@
       "Awards": "Won 1 Oscar. 69 wins & 72 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       "Rotten Tomatoes": "92%",
-      "imdbRating": "8.9"
+      "imdbRating": "8.9",
+      "movieLink": "https://www.justwatch.com/us/movie/pulp-fiction"
     },
     {
       "id": 176,
@@ -2814,7 +2989,8 @@
       "Awards": "Nominated for 1 Oscar. 4 wins & 11 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
       "Rotten Tomatoes": "79%",
-      "imdbRating": "8.2"
+      "imdbRating": "8.2",
+      "movieLink": "https://www.justwatch.com/us/movie/casino"
     },
     {
       "id": 177,
@@ -2830,7 +3006,8 @@
       "Awards": "1 win & 13 nominations",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
       "Rotten Tomatoes": "54%",
-      "imdbRating": "7.3"
+      "imdbRating": "7.3",
+      "movieLink": "https://www.justwatch.com/us/movie/bullet-train"
     },
     {
       "id": 178,
@@ -2846,7 +3023,8 @@
       "Awards": "N/A",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzNDA3NTc0NV5BMl5BanBnXkFtZTgwMTMxODExMTE@._V1_SX300.jpg",
       "Rotten Tomatoes": "N/A",
-      "imdbRating": "3.9"
+      "imdbRating": "3.9",
+      "movieLink": "https://www.justwatch.com/in/movie/kick-ass-girls"
     },
     {
       "id": 179,
@@ -2862,7 +3040,8 @@
       "Awards": "Nominated for 1 Oscar. 15 wins & 52 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjcxMjg1Njg2NF5BMl5BanBnXkFtZTcwMjQ4NzMzMw@@._V1_SX300.jpg",
       "Rotten Tomatoes": "83%",
-      "imdbRating": "6.7"
+      "imdbRating": "6.7",
+      "movieLink": "https://www.justwatch.com/in/movie/charlie-and-the-chocolate-factory"
     },
     {
       "id": 180,
@@ -2878,7 +3057,8 @@
       "Awards": "Won 1 Oscar. 44 wins & 148 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "Rotten Tomatoes": "73%",
-      "imdbRating": "8.7"
+      "imdbRating": "8.7",
+      "movieLink": "https://www.justwatch.com/in/movie/interstellar"
     },
     {
       "id": 181,
@@ -2894,7 +3074,8 @@
       "Awards": "Nominated for 4 Oscars. 8 wins & 60 nominations total",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5ODA2MzQxMl5BMl5BanBnXkFtZTcwMTI4NTEwMw@@._V1_SX300.jpg",
       "Rotten Tomatoes": "39%",
-      "imdbRating": "5.8"
+      "imdbRating": "5.8",
+      "movieLink": "https://www.justwatch.com/in/movie/9"
     },
     {
       "Title": "The Italian Job",
@@ -2910,6 +3091,7 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDYyNzYxNjYtNmYzMC00MTE0LWIwMmYtNTAyZDBjYTIxMTRhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
       "Rotten Tomatoes": "72%",
       "imdbRating": "7.0",
+      "movieLink": "https://www.justwatch.com/in/movie/the-italian-job",
       "id": 182
     }
   ]
