@@ -33,7 +33,7 @@ function MoviesDetails({moviesArray,setMoviesArray}){
     return(
         <>
         <Search setSearchTerm={setSearchTerm}/>
-        <h2><img src="./images/search.png"/></h2>
+        <h2><img src="./images/search.png" alt="Poster"/></h2>
         {moviesArray.length >0 ? 
             <Movies 
             filteredArray={filteredArray} 

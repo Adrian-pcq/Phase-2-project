@@ -19,7 +19,7 @@ function App() {
   return (
     <>
       <header>
-        <img src="./images/title.png"/>
+        <img src="./images/title.png" alt="Poster"/>
       </header>
       <NavBar/>
       <Switch>

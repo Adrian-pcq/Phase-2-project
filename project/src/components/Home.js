@@ -8,20 +8,20 @@ function Home({moviesArray}){
     return(
         <>
 
-        <h1><img src="./images/randomOrderRed.png"/></h1>
+        <h1><img src="./images/randomOrderRed.png" alt="Poster"/></h1>
         <div className="card-container">
             
             {display5.map((movie)=>{
                 return(
-                    <div className="card">
-                    <img key={movie.id}
-                     src={movie.Poster}/>
+                    <div className="card" key={movie.id}>
+                    <img 
+                     src={movie.Poster} alt="Poster"/>
                      </div>
                 )
             })}
             
         </div>
-        <h1><img src="./images/clickAll.png"/></h1>
+        <h1><img src="./images/clickAll.png" alt="Poster"/></h1>
         </>
     )
 }
