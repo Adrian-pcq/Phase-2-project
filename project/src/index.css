@@ -68,6 +68,7 @@ h1 {
   width: 50%;
   height: 50px;
   font-size: large;
+  box-shadow: 5px 5px 10px 5px rgb(241, 230, 71);
 }
 
 h2{
@@ -109,6 +110,7 @@ h2{
   margin-right: 10px;
   margin-bottom: 10px;
   height: fit-content;
+  
   
 }
 
@@ -157,12 +159,14 @@ h2{
 form {
  width: 500px;
  margin: 10px auto;
- border: 1px solid #ccc;
+ border: 1px solid #ec0909;
  border-radius: 5px;
  padding: 10px;
  text-align: center;
+ box-shadow: 5px 5px 10px 5px rgba(216, 4, 4, 0.733);
  
 }
+
 .active, .collapsible:hover {
   background-color: #ccc;
 }
